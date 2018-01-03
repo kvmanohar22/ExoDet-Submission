@@ -1,0 +1,24 @@
+
+
+Hyper-Parameters: 
+ - learning_rate.................: 0.000516157250373
+ - dropout1......................: 0.25
+Epoch 1/40
+21s - loss: 0.7213 - acc: 0.5286
+Epoch 2/40
+19s - loss: 0.6878 - acc: 0.5235
+Epoch 3/40
+19s - loss: 0.6932 - acc: 0.5000
+Epoch 4/40
+17s - loss: 0.6932 - acc: 0.4998
+Epoch 5/40
+18s - loss: 0.6932 - acc: 0.5000
+Epoch 6/40
+18s - loss: 0.6931 - acc: 0.5000
+Epoch 7/40
+18s - loss: 0.6932 - acc: 0.4998
+Epoch 8/40
+19s - loss: 0.6931 - acc: 0.5000
+Epoch 9/40
+17s - loss: 0.6931 - acc: 0.5000
+Epoch 10/40

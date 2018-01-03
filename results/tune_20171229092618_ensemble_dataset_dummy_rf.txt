@@ -1,0 +1,7 @@
+
+
+Hyper-Parameters: 
+ - rf__min_samples_split.........: 35
+ - rf__max_depth.................: 9
+ - rf_criterion..................: entropy
+ - rf__n_estimators..............: 3400

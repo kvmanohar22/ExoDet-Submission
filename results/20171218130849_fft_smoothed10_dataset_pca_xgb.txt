@@ -1,0 +1,102 @@
+[Fold 1]: 
+Fold Summary:  AUC -   0.9600 		AUPRC -   0.1395 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.0200          0.1905          0.5714          0.2857          0.5498         17          3          4        769
+         0.0050          0.0560          1.0000          0.1061          0.8499        118          0          7        668
+         0.2500          0.1111          0.1429          0.1250          0.1327          8          6          1        778
+         0.5000          0.0000          0.0000          0.0000         -0.0076          6          7          0        780
+         0.7500          0.0000          0.0000          0.0000         -0.0064          5          7          0        781
+
+
+[Fold 2]: 
+Fold Summary:  AUC -   0.9791 		AUPRC -   0.7646 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.2390          1.0000          0.5714          0.7273          0.5714          0          3          4        786
+         0.0530          0.5000          0.8571          0.6316          0.8495          6          1          6        780
+         0.2500          1.0000          0.5714          0.7273          0.5714          0          3          4        786
+         0.5000          1.0000          0.5714          0.7273          0.5714          0          3          4        786
+         0.7500          1.0000          0.2857          0.4444          0.2857          0          5          2        786
+
+
+[Fold 3]: 
+Fold Summary:  AUC -   1.0000 		AUPRC -   1.0000 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.1150          1.0000          1.0000          1.0000          1.0000          0          0          7        785
+         0.1150          1.0000          1.0000          1.0000          1.0000          0          0          7        785
+         0.2500          1.0000          1.0000          1.0000          1.0000          0          0          7        785
+         0.5000          1.0000          0.8571          0.9231          0.8571          0          1          6        785
+         0.7500          1.0000          0.8571          0.9231          0.8571          0          1          6        785
+
+
+[Fold 4]: 
+Fold Summary:  AUC -   0.9994 		AUPRC -   0.9306 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.0450          0.7500          1.0000          0.8571          0.9975          2          0          6        783
+         0.0450          0.7500          1.0000          0.8571          0.9975          2          0          6        783
+         0.2500          0.8333          0.8333          0.8333          0.8321          1          1          5        784
+         0.5000          0.8000          0.6667          0.7273          0.6654          1          2          4        784
+         0.7500          1.0000          0.6667          0.8000          0.6667          0          2          4        785
+
+
+[Fold 5]: 
+Fold Summary:  AUC -   0.9338 		AUPRC -   0.5802 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.0640          1.0000          0.5000          0.6667          0.5000          0          3          3        785
+         0.0020          0.0439          0.8333          0.0833          0.6945        109          1          5        676
+         0.2500          1.0000          0.5000          0.6667          0.5000          0          3          3        785
+         0.5000          1.0000          0.3333          0.5000          0.3333          0          4          2        785
+         0.7500          0.0000          0.0000          0.0000          0.0000          0          6          0        785
+
+
+Complete Summary:  AUC -   0.9729 		AUPRC -   0.4818 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.2390          0.6897          0.6061          0.6452          0.6038          9         13         20       3918
+         0.0090          0.1450          0.8788          0.2489          0.8352        171          4         29       3756
+         0.2500          0.6897          0.6061          0.6452          0.6038          9         13         20       3918
+         0.5000          0.6957          0.4848          0.5714          0.4831          7         17         16       3920
+         0.7500          0.7059          0.3636          0.4800          0.3624          5         21         12       3922
+
+
+Model parameters: 
+{   'memory': None,
+    'pca': PCA(copy=True, iterated_power='auto', n_components=51, random_state=2017,
+  svd_solver='auto', tol=0.0, whiten=False),
+    'pca__copy': True,
+    'pca__iterated_power': 'auto',
+    'pca__n_components': 51,
+    'pca__random_state': 2017,
+    'pca__svd_solver': 'auto',
+    'pca__tol': 0.0,
+    'pca__whiten': False,
+    'steps': [...],
+    'xgb': XGBClassifier(base_score=0.5, colsample_bylevel=1, colsample_bytree=0.85,
+       gamma=0.7, learning_rate=0.125, max_delta_step=0, max_depth=11,
+       min_child_weight=4, missing=None, n_estimators=5900, nthread=1,
+       objective='binary:logistic', reg_alpha=0, reg_lambda=1,
+       scale_pos_weight=1, seed=2017, silent=True,
+       subsample=0.932626370862),
+    'xgb__base_score': 0.5,
+    'xgb__colsample_bylevel': 1,
+    'xgb__colsample_bytree': 0.85,
+    'xgb__gamma': 0.7,
+    'xgb__learning_rate': 0.125,
+    'xgb__max_delta_step': 0,
+    'xgb__max_depth': 11,
+    'xgb__min_child_weight': 4,
+    'xgb__missing': None,
+    'xgb__n_estimators': 5900,
+    'xgb__nthread': 1,
+    'xgb__objective': 'binary:logistic',
+    'xgb__reg_alpha': 0,
+    'xgb__reg_lambda': 1,
+    'xgb__scale_pos_weight': 1,
+    'xgb__seed': 2017,
+    'xgb__silent': True,
+    'xgb__subsample': 0.932626370862}
+

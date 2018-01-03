@@ -1,0 +1,31 @@
+
+
+Hyper-Parameters: 
+ - xgb__colsample_bytree.........: 0.7
+ - pca__n_components.............: 25
+ - xgb__gamma....................: 0.00778687479761
+ - xgb__n_estimators.............: 6850
+ - xgb__subsample................: 0.834448052908
+ - xgb__min_child_weight.........: 19.0
+ - xgb__learning_rate............: 0.00066536585813
+ - xgb__max_depth................: 16
+Fold Wise AUPRC  AUC -   0.9352 		AUPRC -   0.8518 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.2650          0.9643          0.8182          0.8852          0.8179          1          6         27       3926
+         0.1070          0.4412          0.9091          0.5941          0.8994         38          3         30       3889
+         0.2500          0.5745          0.8182          0.6750          0.8131         20          6         27       3907
+         0.5000          0.0000          0.0000          0.0000          0.0000          0         33          0       3927
+         0.7500          0.0000          0.0000          0.0000          0.0000          0         33          0       3927
+
+
+
+Hyper-Parameters: 
+ - xgb__colsample_bytree.........: 0.5
+ - pca__n_components.............: 58
+ - xgb__gamma....................: 1.08431063945
+ - xgb__n_estimators.............: 8850
+ - xgb__subsample................: 0.86104647036
+ - xgb__min_child_weight.........: 9.0
+ - xgb__learning_rate............: 0.00213306373622
+ - xgb__max_depth................: 13

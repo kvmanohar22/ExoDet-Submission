@@ -1,0 +1,1084 @@
+Epoch 1/100
+12s - loss: 0.7174 - acc: 0.5765
+Epoch 2/100
+2s - loss: 0.6121 - acc: 0.6559
+Epoch 3/100
+2s - loss: 0.4987 - acc: 0.7561
+Epoch 4/100
+2s - loss: 0.3503 - acc: 0.8428
+Epoch 5/100
+2s - loss: 0.2611 - acc: 0.9091
+Epoch 6/100
+2s - loss: 0.1504 - acc: 0.9506
+Epoch 7/100
+2s - loss: 0.0896 - acc: 0.9719
+Epoch 8/100
+2s - loss: 0.0791 - acc: 0.9754
+Epoch 9/100
+2s - loss: 0.0586 - acc: 0.9837
+Epoch 10/100
+3s - loss: 0.0696 - acc: 0.9802
+Epoch 11/100
+2s - loss: 0.0597 - acc: 0.9866
+Epoch 12/100
+2s - loss: 0.0522 - acc: 0.9857
+Epoch 13/100
+2s - loss: 0.0329 - acc: 0.9892
+Epoch 14/100
+2s - loss: 0.0379 - acc: 0.9895
+Epoch 15/100
+2s - loss: 0.0543 - acc: 0.9885
+Epoch 16/100
+2s - loss: 0.0441 - acc: 0.9882
+Epoch 17/100
+2s - loss: 0.0334 - acc: 0.9911
+Epoch 18/100
+2s - loss: 0.0286 - acc: 0.9904
+Epoch 19/100
+2s - loss: 0.0254 - acc: 0.9923
+Epoch 20/100
+2s - loss: 0.0505 - acc: 0.9895
+Epoch 21/100
+2s - loss: 0.0205 - acc: 0.9943
+Epoch 22/100
+2s - loss: 0.0341 - acc: 0.9936
+Epoch 23/100
+2s - loss: 0.0098 - acc: 0.9981
+Epoch 24/100
+2s - loss: 0.0122 - acc: 0.9962
+Epoch 25/100
+2s - loss: 0.0282 - acc: 0.9939
+Epoch 26/100
+2s - loss: 0.0149 - acc: 0.9959
+Epoch 27/100
+2s - loss: 0.0130 - acc: 0.9978
+Epoch 28/100
+2s - loss: 0.0284 - acc: 0.9933
+Epoch 29/100
+2s - loss: 0.0177 - acc: 0.9949
+Epoch 30/100
+2s - loss: 0.0188 - acc: 0.9959
+Epoch 31/100
+2s - loss: 0.0303 - acc: 0.9930
+Epoch 32/100
+2s - loss: 0.0137 - acc: 0.9965
+Epoch 33/100
+2s - loss: 0.0050 - acc: 0.9974
+Epoch 34/100
+2s - loss: 0.0209 - acc: 0.9946
+Epoch 35/100
+2s - loss: 0.0225 - acc: 0.9949
+Epoch 36/100
+2s - loss: 0.0089 - acc: 0.9971
+Epoch 37/100
+2s - loss: 0.0160 - acc: 0.9959
+Epoch 38/100
+2s - loss: 0.0136 - acc: 0.9971
+Epoch 39/100
+2s - loss: 0.0228 - acc: 0.9949
+Epoch 40/100
+2s - loss: 0.0103 - acc: 0.9965
+Epoch 41/100
+2s - loss: 0.0140 - acc: 0.9974
+Epoch 42/100
+2s - loss: 0.0246 - acc: 0.9952
+Epoch 43/100
+2s - loss: 0.0164 - acc: 0.9974
+Epoch 44/100
+2s - loss: 0.0050 - acc: 0.9990
+Epoch 45/100
+2s - loss: 0.0105 - acc: 0.9955
+Epoch 46/100
+2s - loss: 0.0043 - acc: 0.9990
+Epoch 47/100
+2s - loss: 0.0105 - acc: 0.9962
+Epoch 48/100
+2s - loss: 0.0090 - acc: 0.9971
+Epoch 49/100
+2s - loss: 0.0093 - acc: 0.9974
+Epoch 50/100
+2s - loss: 0.0110 - acc: 0.9971
+Epoch 51/100
+2s - loss: 0.0118 - acc: 0.9965
+Epoch 52/100
+2s - loss: 0.0105 - acc: 0.9968
+Epoch 53/100
+2s - loss: 0.0091 - acc: 0.9978
+Epoch 54/100
+2s - loss: 0.0144 - acc: 0.9962
+Epoch 55/100
+2s - loss: 0.0045 - acc: 0.9978
+Epoch 56/100
+2s - loss: 0.0130 - acc: 0.9962
+Epoch 57/100
+2s - loss: 0.0076 - acc: 0.9981
+Epoch 58/100
+2s - loss: 0.0038 - acc: 0.9994
+Epoch 59/100
+2s - loss: 0.0065 - acc: 0.9987
+Epoch 60/100
+2s - loss: 0.0130 - acc: 0.9968
+Epoch 61/100
+2s - loss: 0.0075 - acc: 0.9981
+Epoch 62/100
+2s - loss: 0.0048 - acc: 0.9990
+Epoch 63/100
+2s - loss: 0.0064 - acc: 0.9987
+Epoch 64/100
+2s - loss: 0.0078 - acc: 0.9974
+Epoch 65/100
+2s - loss: 0.0057 - acc: 0.9981
+Epoch 66/100
+2s - loss: 0.0056 - acc: 0.9984
+Epoch 67/100
+2s - loss: 0.0104 - acc: 0.9971
+Epoch 68/100
+2s - loss: 0.0036 - acc: 0.9990
+Epoch 69/100
+2s - loss: 0.0046 - acc: 0.9984
+Epoch 70/100
+2s - loss: 0.0185 - acc: 0.9952
+Epoch 71/100
+2s - loss: 0.0027 - acc: 0.9994
+Epoch 72/100
+2s - loss: 0.0059 - acc: 0.9987
+Epoch 73/100
+2s - loss: 0.0168 - acc: 0.9955
+Epoch 74/100
+2s - loss: 0.0036 - acc: 0.9990
+Epoch 75/100
+2s - loss: 0.0074 - acc: 0.9974
+Epoch 76/100
+2s - loss: 0.0051 - acc: 0.9981
+Epoch 77/100
+2s - loss: 0.0037 - acc: 0.9990
+Epoch 78/100
+2s - loss: 0.0061 - acc: 0.9984
+Epoch 79/100
+2s - loss: 5.3390e-04 - acc: 1.0000
+Epoch 80/100
+2s - loss: 0.0013 - acc: 0.9990
+Epoch 81/100
+2s - loss: 0.0070 - acc: 0.9984
+Epoch 82/100
+2s - loss: 0.0060 - acc: 0.9990
+Epoch 83/100
+2s - loss: 0.0106 - acc: 0.9978
+Epoch 84/100
+2s - loss: 0.0089 - acc: 0.9974
+Epoch 85/100
+2s - loss: 0.0039 - acc: 0.9994
+Epoch 86/100
+2s - loss: 0.0071 - acc: 0.9981
+Epoch 87/100
+2s - loss: 0.0064 - acc: 0.9981
+Epoch 88/100
+2s - loss: 0.0055 - acc: 0.9990
+Epoch 89/100
+2s - loss: 0.0046 - acc: 0.9987
+Epoch 90/100
+2s - loss: 0.0076 - acc: 0.9978
+Epoch 91/100
+2s - loss: 0.0044 - acc: 0.9987
+Epoch 92/100
+2s - loss: 0.0039 - acc: 0.9987
+Epoch 93/100
+2s - loss: 0.0039 - acc: 0.9987
+Epoch 94/100
+2s - loss: 0.0039 - acc: 0.9984
+Epoch 95/100
+2s - loss: 0.0066 - acc: 0.9984
+Epoch 96/100
+2s - loss: 0.0024 - acc: 0.9997
+Epoch 97/100
+2s - loss: 0.0037 - acc: 0.9994
+Epoch 98/100
+2s - loss: 0.0052 - acc: 0.9978
+Epoch 99/100
+2s - loss: 0.0034 - acc: 0.9987
+Epoch 100/100
+2s - loss: 0.0058 - acc: 0.9981
+Saving the model...
+[Fold 1]: 
+Fold Summary:  Training AUPRC -   1.0000
+AUC -   0.9975 		AUPRC -   0.7397 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.9020          0.8571          0.8571          0.8571          0.8559          1          1          6        785
+         0.0010          0.4375          1.0000          0.6087          0.9885          9          0          7        777
+         0.2500          0.6667          0.8571          0.7500          0.8533          3          1          6        783
+         0.5000          0.6667          0.8571          0.7500          0.8533          3          1          6        783
+         0.7500          0.6667          0.8571          0.7500          0.8533          3          1          6        783
+
+
+Epoch 1/100
+2s - loss: 0.7515 - acc: 0.5415
+Epoch 2/100
+2s - loss: 0.6381 - acc: 0.6256
+Epoch 3/100
+2s - loss: 0.5514 - acc: 0.7184
+Epoch 4/100
+2s - loss: 0.4330 - acc: 0.8036
+Epoch 5/100
+2s - loss: 0.2915 - acc: 0.8948
+Epoch 6/100
+2s - loss: 0.1746 - acc: 0.9404
+Epoch 7/100
+2s - loss: 0.1277 - acc: 0.9589
+Epoch 8/100
+2s - loss: 0.1022 - acc: 0.9694
+Epoch 9/100
+2s - loss: 0.0802 - acc: 0.9790
+Epoch 10/100
+2s - loss: 0.1340 - acc: 0.9605
+Epoch 11/100
+2s - loss: 0.0580 - acc: 0.9837
+Epoch 12/100
+2s - loss: 0.0570 - acc: 0.9841
+Epoch 13/100
+2s - loss: 0.0519 - acc: 0.9850
+Epoch 14/100
+2s - loss: 0.0501 - acc: 0.9860
+Epoch 15/100
+2s - loss: 0.0249 - acc: 0.9917
+Epoch 16/100
+2s - loss: 0.0300 - acc: 0.9908
+Epoch 17/100
+2s - loss: 0.0345 - acc: 0.9892
+Epoch 18/100
+2s - loss: 0.0262 - acc: 0.9914
+Epoch 19/100
+2s - loss: 0.0312 - acc: 0.9901
+Epoch 20/100
+2s - loss: 0.0423 - acc: 0.9876
+Epoch 21/100
+2s - loss: 0.0225 - acc: 0.9943
+Epoch 22/100
+2s - loss: 0.0238 - acc: 0.9927
+Epoch 23/100
+2s - loss: 0.0178 - acc: 0.9939
+Epoch 24/100
+2s - loss: 0.0122 - acc: 0.9955
+Epoch 25/100
+2s - loss: 0.0146 - acc: 0.9968
+Epoch 26/100
+2s - loss: 0.0143 - acc: 0.9949
+Epoch 27/100
+2s - loss: 0.0162 - acc: 0.9962
+Epoch 28/100
+2s - loss: 0.0121 - acc: 0.9949
+Epoch 29/100
+2s - loss: 0.0128 - acc: 0.9962
+Epoch 30/100
+2s - loss: 0.0244 - acc: 0.9917
+Epoch 31/100
+2s - loss: 0.0077 - acc: 0.9981
+Epoch 32/100
+2s - loss: 0.0093 - acc: 0.9984
+Epoch 33/100
+2s - loss: 0.0167 - acc: 0.9949
+Epoch 34/100
+2s - loss: 0.0062 - acc: 0.9978
+Epoch 35/100
+2s - loss: 0.0160 - acc: 0.9943
+Epoch 36/100
+2s - loss: 0.0056 - acc: 0.9984
+Epoch 37/100
+2s - loss: 0.0049 - acc: 0.9984
+Epoch 38/100
+2s - loss: 0.0180 - acc: 0.9949
+Epoch 39/100
+2s - loss: 0.0076 - acc: 0.9974
+Epoch 40/100
+2s - loss: 0.0086 - acc: 0.9981
+Epoch 41/100
+2s - loss: 0.0087 - acc: 0.9978
+Epoch 42/100
+2s - loss: 0.0114 - acc: 0.9968
+Epoch 43/100
+2s - loss: 0.0152 - acc: 0.9962
+Epoch 44/100
+2s - loss: 0.0089 - acc: 0.9984
+Epoch 45/100
+2s - loss: 0.0050 - acc: 0.9984
+Epoch 46/100
+2s - loss: 0.0125 - acc: 0.9962
+Epoch 47/100
+3s - loss: 0.0146 - acc: 0.9955
+Epoch 48/100
+2s - loss: 0.0050 - acc: 0.9981
+Epoch 49/100
+2s - loss: 0.0037 - acc: 0.9984
+Epoch 50/100
+2s - loss: 0.0063 - acc: 0.9974
+Epoch 51/100
+3s - loss: 0.0185 - acc: 0.9946
+Epoch 52/100
+2s - loss: 0.0043 - acc: 0.9984
+Epoch 53/100
+2s - loss: 0.0035 - acc: 0.9987
+Epoch 54/100
+2s - loss: 0.0045 - acc: 0.9987
+Epoch 55/100
+2s - loss: 0.0036 - acc: 0.9990
+Epoch 56/100
+2s - loss: 0.0019 - acc: 0.9994
+Epoch 57/100
+2s - loss: 0.0084 - acc: 0.9984
+Epoch 58/100
+2s - loss: 0.0089 - acc: 0.9978
+Epoch 59/100
+2s - loss: 0.0197 - acc: 0.9949
+Epoch 60/100
+2s - loss: 0.0062 - acc: 0.9984
+Epoch 61/100
+2s - loss: 0.0107 - acc: 0.9968
+Epoch 62/100
+2s - loss: 0.0105 - acc: 0.9965
+Epoch 63/100
+2s - loss: 0.0039 - acc: 0.9984
+Epoch 64/100
+2s - loss: 0.0123 - acc: 0.9978
+Epoch 65/100
+2s - loss: 0.0016 - acc: 0.9994
+Epoch 66/100
+2s - loss: 0.0031 - acc: 0.9994
+Epoch 67/100
+2s - loss: 0.0029 - acc: 0.9990
+Epoch 68/100
+2s - loss: 0.0019 - acc: 0.9990
+Epoch 69/100
+2s - loss: 0.0040 - acc: 0.9990
+Epoch 70/100
+2s - loss: 0.0108 - acc: 0.9965
+Epoch 71/100
+2s - loss: 0.0092 - acc: 0.9965
+Epoch 72/100
+2s - loss: 0.0018 - acc: 0.9997
+Epoch 73/100
+2s - loss: 0.0080 - acc: 0.9974
+Epoch 74/100
+2s - loss: 0.0048 - acc: 0.9987
+Epoch 75/100
+2s - loss: 0.0024 - acc: 0.9994
+Epoch 76/100
+2s - loss: 0.0016 - acc: 0.9994
+Epoch 77/100
+2s - loss: 0.0041 - acc: 0.9990
+Epoch 78/100
+2s - loss: 0.0054 - acc: 0.9990
+Epoch 79/100
+2s - loss: 0.0122 - acc: 0.9974
+Epoch 80/100
+2s - loss: 0.0072 - acc: 0.9978
+Epoch 81/100
+2s - loss: 0.0047 - acc: 0.9987
+Epoch 82/100
+2s - loss: 0.0046 - acc: 0.9984
+Epoch 83/100
+2s - loss: 0.0038 - acc: 0.9987
+Epoch 84/100
+2s - loss: 0.0013 - acc: 0.9997
+Epoch 85/100
+2s - loss: 0.0108 - acc: 0.9971
+Epoch 86/100
+2s - loss: 0.0052 - acc: 0.9981
+Epoch 87/100
+2s - loss: 0.0044 - acc: 0.9990
+Epoch 88/100
+2s - loss: 0.0097 - acc: 0.9974
+Epoch 89/100
+2s - loss: 0.0061 - acc: 0.9984
+Epoch 90/100
+2s - loss: 0.0025 - acc: 0.9990
+Epoch 91/100
+2s - loss: 0.0033 - acc: 0.9994
+Epoch 92/100
+2s - loss: 0.0072 - acc: 0.9978
+Epoch 93/100
+2s - loss: 0.0087 - acc: 0.9981
+Epoch 94/100
+2s - loss: 0.0035 - acc: 0.9987
+Epoch 95/100
+2s - loss: 0.0122 - acc: 0.9962
+Epoch 96/100
+2s - loss: 0.0045 - acc: 0.9984
+Epoch 97/100
+2s - loss: 0.0036 - acc: 0.9994
+Epoch 98/100
+2s - loss: 0.0016 - acc: 0.9997
+Epoch 99/100
+2s - loss: 0.0066 - acc: 0.9987
+Epoch 100/100
+2s - loss: 0.0060 - acc: 0.9981
+Saving the model...
+[Fold 2]: 
+Fold Summary:  Training AUPRC -   1.0000
+AUC -   0.9584 		AUPRC -   0.6165 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.3420          0.7143          0.7143          0.7143          0.7117          2          2          5        784
+         0.3420          0.7143          0.7143          0.7143          0.7117          2          2          5        784
+         0.2500          0.5556          0.7143          0.6250          0.7092          4          2          5        782
+         0.5000          0.6667          0.5714          0.6154          0.5689          2          3          4        784
+         0.7500          0.6667          0.5714          0.6154          0.5689          2          3          4        784
+
+
+Epoch 1/100
+2s - loss: 0.7263 - acc: 0.5770
+Epoch 2/100
+2s - loss: 0.5889 - acc: 0.6765
+Epoch 3/100
+2s - loss: 0.4724 - acc: 0.7667
+Epoch 4/100
+2s - loss: 0.2864 - acc: 0.8883
+Epoch 5/100
+2s - loss: 0.1893 - acc: 0.9362
+Epoch 6/100
+2s - loss: 0.1110 - acc: 0.9605
+Epoch 7/100
+2s - loss: 0.1016 - acc: 0.9719
+Epoch 8/100
+2s - loss: 0.0783 - acc: 0.9776
+Epoch 9/100
+2s - loss: 0.0775 - acc: 0.9770
+Epoch 10/100
+2s - loss: 0.0591 - acc: 0.9852
+Epoch 11/100
+2s - loss: 0.0334 - acc: 0.9890
+Epoch 12/100
+2s - loss: 0.0590 - acc: 0.9842
+Epoch 13/100
+2s - loss: 0.0548 - acc: 0.9861
+Epoch 14/100
+2s - loss: 0.0408 - acc: 0.9912
+Epoch 15/100
+2s - loss: 0.0406 - acc: 0.9890
+Epoch 16/100
+2s - loss: 0.0162 - acc: 0.9956
+Epoch 17/100
+2s - loss: 0.0277 - acc: 0.9912
+Epoch 18/100
+2s - loss: 0.0472 - acc: 0.9867
+Epoch 19/100
+2s - loss: 0.0269 - acc: 0.9937
+Epoch 20/100
+2s - loss: 0.0318 - acc: 0.9908
+Epoch 21/100
+2s - loss: 0.0238 - acc: 0.9953
+Epoch 22/100
+2s - loss: 0.0107 - acc: 0.9968
+Epoch 23/100
+2s - loss: 0.0229 - acc: 0.9934
+Epoch 24/100
+2s - loss: 0.0200 - acc: 0.9956
+Epoch 25/100
+2s - loss: 0.0159 - acc: 0.9968
+Epoch 26/100
+2s - loss: 0.0054 - acc: 0.9981
+Epoch 27/100
+2s - loss: 0.0125 - acc: 0.9968
+Epoch 28/100
+2s - loss: 0.0146 - acc: 0.9959
+Epoch 29/100
+2s - loss: 0.0089 - acc: 0.9978
+Epoch 30/100
+2s - loss: 0.0041 - acc: 0.9984
+Epoch 31/100
+2s - loss: 0.0223 - acc: 0.9921
+Epoch 32/100
+2s - loss: 0.0121 - acc: 0.9972
+Epoch 33/100
+2s - loss: 0.0295 - acc: 0.9934
+Epoch 34/100
+2s - loss: 0.0129 - acc: 0.9959
+Epoch 35/100
+2s - loss: 0.0133 - acc: 0.9959
+Epoch 36/100
+2s - loss: 0.0137 - acc: 0.9956
+Epoch 37/100
+2s - loss: 0.0074 - acc: 0.9978
+Epoch 38/100
+2s - loss: 0.0086 - acc: 0.9968
+Epoch 39/100
+2s - loss: 0.0082 - acc: 0.9975
+Epoch 40/100
+2s - loss: 0.0048 - acc: 0.9987
+Epoch 41/100
+2s - loss: 0.0027 - acc: 0.9997
+Epoch 42/100
+2s - loss: 0.0069 - acc: 0.9972
+Epoch 43/100
+2s - loss: 0.0117 - acc: 0.9975
+Epoch 44/100
+2s - loss: 0.0032 - acc: 0.9987
+Epoch 45/100
+2s - loss: 0.0062 - acc: 0.9975
+Epoch 46/100
+2s - loss: 0.0040 - acc: 0.9984
+Epoch 47/100
+2s - loss: 0.0069 - acc: 0.9981
+Epoch 48/100
+2s - loss: 0.0068 - acc: 0.9981
+Epoch 49/100
+2s - loss: 0.0131 - acc: 0.9968
+Epoch 50/100
+2s - loss: 0.0012 - acc: 0.9997
+Epoch 51/100
+2s - loss: 0.0043 - acc: 0.9991
+Epoch 52/100
+2s - loss: 0.0081 - acc: 0.9978
+Epoch 53/100
+2s - loss: 0.0113 - acc: 0.9968
+Epoch 54/100
+2s - loss: 0.0017 - acc: 0.9991
+Epoch 55/100
+2s - loss: 0.0053 - acc: 0.9984
+Epoch 56/100
+2s - loss: 0.0049 - acc: 0.9981
+Epoch 57/100
+2s - loss: 0.0059 - acc: 0.9987
+Epoch 58/100
+2s - loss: 0.0063 - acc: 0.9978
+Epoch 59/100
+2s - loss: 0.0041 - acc: 0.9987
+Epoch 60/100
+2s - loss: 0.0040 - acc: 0.9984
+Epoch 61/100
+2s - loss: 0.0043 - acc: 0.9984
+Epoch 62/100
+2s - loss: 0.0032 - acc: 0.9997
+Epoch 63/100
+2s - loss: 0.0051 - acc: 0.9987
+Epoch 64/100
+2s - loss: 0.0044 - acc: 0.9991
+Epoch 65/100
+2s - loss: 0.0036 - acc: 0.9981
+Epoch 66/100
+3s - loss: 0.0069 - acc: 0.9984
+Epoch 67/100
+3s - loss: 0.0175 - acc: 0.9962
+Epoch 68/100
+3s - loss: 0.0050 - acc: 0.9984
+Epoch 69/100
+2s - loss: 0.0042 - acc: 0.9987
+Epoch 70/100
+2s - loss: 0.0015 - acc: 0.9997
+Epoch 71/100
+2s - loss: 0.0052 - acc: 0.9991
+Epoch 72/100
+2s - loss: 0.0097 - acc: 0.9991
+Epoch 73/100
+2s - loss: 0.0036 - acc: 0.9994
+Epoch 74/100
+2s - loss: 0.0053 - acc: 0.9987
+Epoch 75/100
+2s - loss: 0.0013 - acc: 0.9997
+Epoch 76/100
+2s - loss: 3.6265e-04 - acc: 1.0000
+Epoch 77/100
+2s - loss: 0.0037 - acc: 0.9991
+Epoch 78/100
+2s - loss: 6.5976e-04 - acc: 1.0000
+Epoch 79/100
+2s - loss: 0.0014 - acc: 0.9997
+Epoch 80/100
+2s - loss: 0.0062 - acc: 0.9984
+Epoch 81/100
+2s - loss: 0.0044 - acc: 0.9984
+Epoch 82/100
+2s - loss: 0.0130 - acc: 0.9968
+Epoch 83/100
+2s - loss: 0.0094 - acc: 0.9972
+Epoch 84/100
+2s - loss: 0.0048 - acc: 0.9994
+Epoch 85/100
+2s - loss: 0.0032 - acc: 0.9984
+Epoch 86/100
+2s - loss: 0.0041 - acc: 0.9987
+Epoch 87/100
+2s - loss: 0.0018 - acc: 0.9997
+Epoch 88/100
+2s - loss: 0.0019 - acc: 0.9994
+Epoch 89/100
+2s - loss: 0.0065 - acc: 0.9981
+Epoch 90/100
+2s - loss: 0.0027 - acc: 0.9994
+Epoch 91/100
+2s - loss: 0.0023 - acc: 0.9994
+Epoch 92/100
+2s - loss: 4.7628e-04 - acc: 1.0000
+Epoch 93/100
+2s - loss: 0.0054 - acc: 0.9987
+Epoch 94/100
+2s - loss: 2.7838e-04 - acc: 1.0000
+Epoch 95/100
+2s - loss: 2.3184e-04 - acc: 1.0000
+Epoch 96/100
+2s - loss: 8.3085e-04 - acc: 0.9997
+Epoch 97/100
+2s - loss: 0.0030 - acc: 0.9994
+Epoch 98/100
+2s - loss: 0.0044 - acc: 0.9987
+Epoch 99/100
+2s - loss: 0.0069 - acc: 0.9978
+Epoch 100/100
+2s - loss: 0.0014 - acc: 0.9997
+Saving the model...
+[Fold 3]: 
+Fold Summary:  Training AUPRC -   1.0000
+AUC -   0.9834 		AUPRC -   0.6489 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.9880          0.5714          0.5714          0.5714          0.5676          3          3          4        782
+         0.4520          0.4545          0.7143          0.5556          0.7066          6          2          5        779
+         0.2500          0.4167          0.7143          0.5263          0.7054          7          2          5        778
+         0.5000          0.4545          0.7143          0.5556          0.7066          6          2          5        779
+         0.7500          0.4000          0.5714          0.4706          0.5638          6          3          4        779
+
+
+Epoch 1/100
+2s - loss: 0.7266 - acc: 0.5720
+Epoch 2/100
+2s - loss: 0.5720 - acc: 0.7071
+Epoch 3/100
+2s - loss: 0.3161 - acc: 0.8782
+Epoch 4/100
+2s - loss: 0.1694 - acc: 0.9426
+Epoch 5/100
+2s - loss: 0.1242 - acc: 0.9564
+Epoch 6/100
+2s - loss: 0.0847 - acc: 0.9760
+Epoch 7/100
+2s - loss: 0.0805 - acc: 0.9760
+Epoch 8/100
+3s - loss: 0.0679 - acc: 0.9826
+Epoch 9/100
+3s - loss: 0.0634 - acc: 0.9842
+Epoch 10/100
+2s - loss: 0.0563 - acc: 0.9861
+Epoch 11/100
+2s - loss: 0.0405 - acc: 0.9908
+Epoch 12/100
+2s - loss: 0.0418 - acc: 0.9905
+Epoch 13/100
+2s - loss: 0.0319 - acc: 0.9927
+Epoch 14/100
+2s - loss: 0.0566 - acc: 0.9858
+Epoch 15/100
+2s - loss: 0.0441 - acc: 0.9877
+Epoch 16/100
+2s - loss: 0.0372 - acc: 0.9905
+Epoch 17/100
+2s - loss: 0.0312 - acc: 0.9931
+Epoch 18/100
+2s - loss: 0.0393 - acc: 0.9921
+Epoch 19/100
+2s - loss: 0.0475 - acc: 0.9899
+Epoch 20/100
+2s - loss: 0.0354 - acc: 0.9918
+Epoch 21/100
+2s - loss: 0.0378 - acc: 0.9905
+Epoch 22/100
+2s - loss: 0.0246 - acc: 0.9934
+Epoch 23/100
+2s - loss: 0.0332 - acc: 0.9931
+Epoch 24/100
+2s - loss: 0.0233 - acc: 0.9940
+Epoch 25/100
+2s - loss: 0.0467 - acc: 0.9867
+Epoch 26/100
+2s - loss: 0.0223 - acc: 0.9940
+Epoch 27/100
+2s - loss: 0.0235 - acc: 0.9915
+Epoch 28/100
+2s - loss: 0.0280 - acc: 0.9949
+Epoch 29/100
+2s - loss: 0.0194 - acc: 0.9949
+Epoch 30/100
+2s - loss: 0.0239 - acc: 0.9924
+Epoch 31/100
+2s - loss: 0.0153 - acc: 0.9965
+Epoch 32/100
+2s - loss: 0.0182 - acc: 0.9934
+Epoch 33/100
+3s - loss: 0.0183 - acc: 0.9937
+Epoch 34/100
+3s - loss: 0.0245 - acc: 0.9943
+Epoch 35/100
+2s - loss: 0.0133 - acc: 0.9962
+Epoch 36/100
+2s - loss: 0.0151 - acc: 0.9972
+Epoch 37/100
+2s - loss: 0.0158 - acc: 0.9949
+Epoch 38/100
+2s - loss: 0.0102 - acc: 0.9972
+Epoch 39/100
+2s - loss: 0.0164 - acc: 0.9959
+Epoch 40/100
+2s - loss: 0.0173 - acc: 0.9953
+Epoch 41/100
+2s - loss: 0.0102 - acc: 0.9975
+Epoch 42/100
+2s - loss: 0.0105 - acc: 0.9965
+Epoch 43/100
+3s - loss: 0.0217 - acc: 0.9940
+Epoch 44/100
+2s - loss: 0.0098 - acc: 0.9972
+Epoch 45/100
+2s - loss: 0.0125 - acc: 0.9965
+Epoch 46/100
+2s - loss: 0.0068 - acc: 0.9978
+Epoch 47/100
+2s - loss: 0.0103 - acc: 0.9962
+Epoch 48/100
+2s - loss: 0.0034 - acc: 0.9991
+Epoch 49/100
+2s - loss: 0.0136 - acc: 0.9965
+Epoch 50/100
+2s - loss: 0.0117 - acc: 0.9956
+Epoch 51/100
+2s - loss: 0.0082 - acc: 0.9991
+Epoch 52/100
+3s - loss: 0.0128 - acc: 0.9953
+Epoch 53/100
+3s - loss: 0.0065 - acc: 0.9975
+Epoch 54/100
+3s - loss: 0.0120 - acc: 0.9978
+Epoch 55/100
+3s - loss: 0.0143 - acc: 0.9965
+Epoch 56/100
+2s - loss: 0.0112 - acc: 0.9965
+Epoch 57/100
+2s - loss: 0.0030 - acc: 0.9994
+Epoch 58/100
+2s - loss: 0.0088 - acc: 0.9968
+Epoch 59/100
+2s - loss: 0.0063 - acc: 0.9978
+Epoch 60/100
+3s - loss: 0.0101 - acc: 0.9968
+Epoch 61/100
+2s - loss: 0.0054 - acc: 0.9987
+Epoch 62/100
+2s - loss: 0.0069 - acc: 0.9978
+Epoch 63/100
+2s - loss: 0.0066 - acc: 0.9984
+Epoch 64/100
+2s - loss: 0.0097 - acc: 0.9975
+Epoch 65/100
+2s - loss: 0.0058 - acc: 0.9984
+Epoch 66/100
+2s - loss: 0.0148 - acc: 0.9959
+Epoch 67/100
+2s - loss: 0.0093 - acc: 0.9965
+Epoch 68/100
+2s - loss: 0.0085 - acc: 0.9984
+Epoch 69/100
+3s - loss: 0.0079 - acc: 0.9972
+Epoch 70/100
+3s - loss: 0.0088 - acc: 0.9968
+Epoch 71/100
+3s - loss: 0.0077 - acc: 0.9975
+Epoch 72/100
+3s - loss: 0.0058 - acc: 0.9981
+Epoch 73/100
+2s - loss: 0.0053 - acc: 0.9981
+Epoch 74/100
+2s - loss: 0.0092 - acc: 0.9981
+Epoch 75/100
+2s - loss: 0.0063 - acc: 0.9984
+Epoch 76/100
+2s - loss: 0.0073 - acc: 0.9972
+Epoch 77/100
+2s - loss: 0.0021 - acc: 0.9991
+Epoch 78/100
+2s - loss: 0.0030 - acc: 0.9994
+Epoch 79/100
+2s - loss: 0.0046 - acc: 0.9994
+Epoch 80/100
+2s - loss: 0.0027 - acc: 0.9987
+Epoch 81/100
+2s - loss: 0.0038 - acc: 0.9987
+Epoch 82/100
+2s - loss: 0.0049 - acc: 0.9991
+Epoch 83/100
+2s - loss: 0.0040 - acc: 0.9984
+Epoch 84/100
+2s - loss: 0.0041 - acc: 0.9984
+Epoch 85/100
+2s - loss: 0.0029 - acc: 0.9991
+Epoch 86/100
+2s - loss: 0.0025 - acc: 0.9997
+Epoch 87/100
+2s - loss: 2.9371e-04 - acc: 1.0000
+Epoch 88/100
+2s - loss: 2.6634e-04 - acc: 1.0000
+Epoch 89/100
+2s - loss: 3.2308e-04 - acc: 1.0000
+Epoch 90/100
+2s - loss: 0.0037 - acc: 0.9994
+Epoch 91/100
+2s - loss: 0.0023 - acc: 0.9994
+Epoch 92/100
+2s - loss: 0.0115 - acc: 0.9962
+Epoch 93/100
+2s - loss: 0.0053 - acc: 0.9984
+Epoch 94/100
+2s - loss: 0.0053 - acc: 0.9981
+Epoch 95/100
+2s - loss: 0.0018 - acc: 0.9994
+Epoch 96/100
+2s - loss: 0.0065 - acc: 0.9975
+Epoch 97/100
+2s - loss: 0.0040 - acc: 0.9987
+Epoch 98/100
+2s - loss: 0.0043 - acc: 0.9981
+Epoch 99/100
+2s - loss: 0.0030 - acc: 0.9991
+Epoch 100/100
+2s - loss: 0.0025 - acc: 0.9997
+Saving the model...
+[Fold 4]: 
+Fold Summary:  Training AUPRC -   1.0000
+AUC -   0.9728 		AUPRC -   0.6408 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.8460          1.0000          0.5000          0.6667          0.5000          0          3          3        785
+         0.8460          1.0000          0.5000          0.6667          0.5000          0          3          3        785
+         0.2500          0.6000          0.5000          0.5455          0.4975          2          3          3        783
+         0.5000          0.7500          0.5000          0.6000          0.4987          1          3          3        784
+         0.7500          0.7500          0.5000          0.6000          0.4987          1          3          3        784
+
+
+Epoch 1/100
+3s - loss: 0.7721 - acc: 0.5237
+Epoch 2/100
+2s - loss: 0.6723 - acc: 0.5941
+Epoch 3/100
+2s - loss: 0.6423 - acc: 0.6288
+Epoch 4/100
+2s - loss: 0.5721 - acc: 0.6995
+Epoch 5/100
+2s - loss: 0.4757 - acc: 0.7762
+Epoch 6/100
+2s - loss: 0.3655 - acc: 0.8472
+Epoch 7/100
+2s - loss: 0.2870 - acc: 0.9021
+Epoch 8/100
+2s - loss: 0.1813 - acc: 0.9413
+Epoch 9/100
+2s - loss: 0.1399 - acc: 0.9558
+Epoch 10/100
+2s - loss: 0.0988 - acc: 0.9694
+Epoch 11/100
+2s - loss: 0.0874 - acc: 0.9747
+Epoch 12/100
+2s - loss: 0.0702 - acc: 0.9814
+Epoch 13/100
+2s - loss: 0.0590 - acc: 0.9845
+Epoch 14/100
+3s - loss: 0.0650 - acc: 0.9833
+Epoch 15/100
+2s - loss: 0.0452 - acc: 0.9874
+Epoch 16/100
+2s - loss: 0.0487 - acc: 0.9880
+Epoch 17/100
+2s - loss: 0.0404 - acc: 0.9915
+Epoch 18/100
+2s - loss: 0.0630 - acc: 0.9823
+Epoch 19/100
+2s - loss: 0.0288 - acc: 0.9924
+Epoch 20/100
+2s - loss: 0.0164 - acc: 0.9949
+Epoch 21/100
+2s - loss: 0.0356 - acc: 0.9899
+Epoch 22/100
+2s - loss: 0.0318 - acc: 0.9912
+Epoch 23/100
+2s - loss: 0.0305 - acc: 0.9918
+Epoch 24/100
+2s - loss: 0.0211 - acc: 0.9943
+Epoch 25/100
+2s - loss: 0.0197 - acc: 0.9959
+Epoch 26/100
+2s - loss: 0.0220 - acc: 0.9946
+Epoch 27/100
+2s - loss: 0.0259 - acc: 0.9931
+Epoch 28/100
+2s - loss: 0.0200 - acc: 0.9959
+Epoch 29/100
+2s - loss: 0.0293 - acc: 0.9927
+Epoch 30/100
+2s - loss: 0.0240 - acc: 0.9931
+Epoch 31/100
+2s - loss: 0.0232 - acc: 0.9931
+Epoch 32/100
+2s - loss: 0.0311 - acc: 0.9921
+Epoch 33/100
+2s - loss: 0.0236 - acc: 0.9927
+Epoch 34/100
+2s - loss: 0.0127 - acc: 0.9959
+Epoch 35/100
+2s - loss: 0.0251 - acc: 0.9924
+Epoch 36/100
+2s - loss: 0.0260 - acc: 0.9908
+Epoch 37/100
+2s - loss: 0.0166 - acc: 0.9956
+Epoch 38/100
+3s - loss: 0.0147 - acc: 0.9968
+Epoch 39/100
+3s - loss: 0.0134 - acc: 0.9956
+Epoch 40/100
+2s - loss: 0.0206 - acc: 0.9959
+Epoch 41/100
+2s - loss: 0.0108 - acc: 0.9965
+Epoch 42/100
+2s - loss: 0.0193 - acc: 0.9934
+Epoch 43/100
+2s - loss: 0.0097 - acc: 0.9968
+Epoch 44/100
+3s - loss: 0.0075 - acc: 0.9981
+Epoch 45/100
+2s - loss: 0.0264 - acc: 0.9934
+Epoch 46/100
+2s - loss: 0.0226 - acc: 0.9934
+Epoch 47/100
+2s - loss: 0.0198 - acc: 0.9956
+Epoch 48/100
+2s - loss: 0.0084 - acc: 0.9975
+Epoch 49/100
+2s - loss: 0.0084 - acc: 0.9975
+Epoch 50/100
+2s - loss: 0.0072 - acc: 0.9975
+Epoch 51/100
+2s - loss: 0.0078 - acc: 0.9975
+Epoch 52/100
+2s - loss: 0.0059 - acc: 0.9987
+Epoch 53/100
+2s - loss: 0.0132 - acc: 0.9968
+Epoch 54/100
+2s - loss: 0.0168 - acc: 0.9962
+Epoch 55/100
+2s - loss: 0.0084 - acc: 0.9978
+Epoch 56/100
+2s - loss: 0.0085 - acc: 0.9984
+Epoch 57/100
+2s - loss: 0.0046 - acc: 0.9984
+Epoch 58/100
+2s - loss: 0.0042 - acc: 0.9987
+Epoch 59/100
+2s - loss: 0.0063 - acc: 0.9981
+Epoch 60/100
+2s - loss: 0.0114 - acc: 0.9965
+Epoch 61/100
+2s - loss: 0.0085 - acc: 0.9978
+Epoch 62/100
+3s - loss: 0.0016 - acc: 0.9994
+Epoch 63/100
+2s - loss: 0.0064 - acc: 0.9984
+Epoch 64/100
+2s - loss: 0.0091 - acc: 0.9975
+Epoch 65/100
+3s - loss: 0.0124 - acc: 0.9972
+Epoch 66/100
+2s - loss: 0.0158 - acc: 0.9956
+Epoch 67/100
+2s - loss: 0.0041 - acc: 0.9987
+Epoch 68/100
+2s - loss: 0.0127 - acc: 0.9959
+Epoch 69/100
+2s - loss: 0.0171 - acc: 0.9959
+Epoch 70/100
+2s - loss: 0.0045 - acc: 0.9987
+Epoch 71/100
+2s - loss: 0.0121 - acc: 0.9972
+Epoch 72/100
+2s - loss: 0.0070 - acc: 0.9975
+Epoch 73/100
+2s - loss: 0.0068 - acc: 0.9978
+Epoch 74/100
+2s - loss: 0.0037 - acc: 0.9991
+Epoch 75/100
+2s - loss: 0.0034 - acc: 0.9987
+Epoch 76/100
+2s - loss: 0.0093 - acc: 0.9968
+Epoch 77/100
+3s - loss: 0.0039 - acc: 0.9984
+Epoch 78/100
+2s - loss: 0.0169 - acc: 0.9978
+Epoch 79/100
+3s - loss: 0.0092 - acc: 0.9968
+Epoch 80/100
+3s - loss: 0.0149 - acc: 0.9956
+Epoch 81/100
+2s - loss: 0.0099 - acc: 0.9965
+Epoch 82/100
+2s - loss: 0.0065 - acc: 0.9972
+Epoch 83/100
+2s - loss: 0.0096 - acc: 0.9975
+Epoch 84/100
+2s - loss: 0.0103 - acc: 0.9981
+Epoch 85/100
+2s - loss: 0.0059 - acc: 0.9978
+Epoch 86/100
+2s - loss: 0.0051 - acc: 0.9984
+Epoch 87/100
+2s - loss: 0.0078 - acc: 0.9984
+Epoch 88/100
+2s - loss: 0.0072 - acc: 0.9978
+Epoch 89/100
+2s - loss: 0.0047 - acc: 0.9984
+Epoch 90/100
+2s - loss: 0.0028 - acc: 0.9991
+Epoch 91/100
+2s - loss: 0.0062 - acc: 0.9984
+Epoch 92/100
+2s - loss: 0.0034 - acc: 0.9991
+Epoch 93/100
+2s - loss: 0.0013 - acc: 0.9997
+Epoch 94/100
+2s - loss: 0.0031 - acc: 0.9984
+Epoch 95/100
+2s - loss: 0.0097 - acc: 0.9984
+Epoch 96/100
+2s - loss: 0.0029 - acc: 0.9991
+Epoch 97/100
+2s - loss: 0.0023 - acc: 0.9997
+Epoch 98/100
+2s - loss: 0.0018 - acc: 0.9991
+Epoch 99/100
+2s - loss: 0.0033 - acc: 0.9987
+Epoch 100/100
+2s - loss: 0.0017 - acc: 0.9997
+Saving the model...
+[Fold 5]: 
+Fold Summary:  Training AUPRC -   1.0000
+AUC -   0.9885 		AUPRC -   0.5161 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.0720          0.7143          0.8333          0.7692          0.8308          2          1          5        783
+         0.0720          0.7143          0.8333          0.7692          0.8308          2          1          5        783
+         0.2500          0.7143          0.8333          0.7692          0.8308          2          1          5        783
+         0.5000          0.7143          0.8333          0.7692          0.8308          2          1          5        783
+         0.7500          0.7143          0.8333          0.7692          0.8308          2          1          5        783
+
+
+Complete Summary:  AUC -   0.9727 		AUPRC -   0.5733 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.9020          0.7097          0.6667          0.6875          0.6644          9         11         22       3918
+         0.0170          0.4808          0.7576          0.5882          0.7507         27          8         25       3900
+         0.2500          0.5714          0.7273          0.6400          0.7227         18          9         24       3909
+         0.5000          0.6216          0.6970          0.6571          0.6934         14         10         23       3913
+         0.7500          0.6111          0.6667          0.6377          0.6631         14         11         22       3913
+
+
+Model parameters: 
+{   'batch_size': 32,
+    'build_fn': <function create_model at 0x7f4af5f9ca28>,
+    'dropout_1': 0.75,
+    'dropout_2': 0.5,
+    'epochs': 100,
+    'learning_rate': 0.0013989765129,
+    'verbose': 2}
+

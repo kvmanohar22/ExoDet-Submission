@@ -1,0 +1,10 @@
+
+
+Hyper-Parameters: 
+ - xgb__colsample_bytree.........: 0.6
+ - xgb__subsample................: 0.862710394918
+ - xgb__min_child_weight.........: 5.0
+ - xgb__learning_rate............: 0.0262984141672
+ - xgb__gamma....................: 0.000470410914538
+ - xgb__n_estimators.............: 9350
+ - xgb__max_depth................: 23

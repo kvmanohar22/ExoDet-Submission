@@ -1,0 +1,45 @@
+Epoch 1/40
+ - 9s - loss: nan - acc: 0.0021
+Epoch 2/40
+ - 8s - loss: nan - acc: 0.0000e+00
+Epoch 3/40
+ - 9s - loss: nan - acc: 0.0000e+00
+Epoch 4/40
+ - 9s - loss: nan - acc: 0.0000e+00
+Epoch 5/40
+ - 8s - loss: nan - acc: 0.0000e+00
+Epoch 6/40
+ - 8s - loss: nan - acc: 0.0000e+00
+Epoch 7/40
+ - 8s - loss: nan - acc: 0.0000e+00
+Epoch 8/40
+ - 8s - loss: nan - acc: 0.0000e+00
+Epoch 9/40
+ - 8s - loss: nan - acc: 0.0000e+00
+Epoch 10/40
+ - 8s - loss: nan - acc: 0.0000e+00
+Epoch 11/40
+ - 8s - loss: nan - acc: 0.0000e+00
+Epoch 12/40
+ - 8s - loss: nan - acc: 0.0000e+00
+Epoch 13/40
+ - 8s - loss: nan - acc: 0.0000e+00
+Epoch 14/40
+ - 8s - loss: nan - acc: 0.0000e+00
+Epoch 15/40
+ - 7s - loss: nan - acc: 0.0000e+00
+Epoch 16/40
+ - 8s - loss: nan - acc: 0.0000e+00
+Epoch 17/40
+ - 8s - loss: nan - acc: 0.0000e+00
+Epoch 18/40
+ - 8s - loss: nan - acc: 0.0000e+00
+Epoch 19/40
+ - 8s - loss: nan - acc: 0.0000e+00
+Epoch 20/40
+ - 8s - loss: nan - acc: 0.0000e+00
+Epoch 21/40
+ - 8s - loss: nan - acc: 0.0000e+00
+Epoch 22/40
+ - 8s - loss: nan - acc: 0.0000e+00
+Epoch 23/40

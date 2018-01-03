@@ -1,0 +1,82 @@
+Epoch 1/40
+9s - loss: 0.4823 - acc: 0.7599
+Epoch 2/40
+6s - loss: 0.1287 - acc: 0.9569
+Epoch 3/40
+6s - loss: 0.0886 - acc: 0.9699
+Epoch 4/40
+7s - loss: 0.0642 - acc: 0.9810
+Epoch 5/40
+6s - loss: 0.0735 - acc: 0.9795
+Epoch 6/40
+6s - loss: 0.0340 - acc: 0.9903
+Epoch 7/40
+6s - loss: 0.0478 - acc: 0.9861
+Epoch 8/40
+6s - loss: 0.0396 - acc: 0.9867
+Epoch 9/40
+7s - loss: 0.0332 - acc: 0.9903
+Epoch 10/40
+9s - loss: 0.0396 - acc: 0.9877
+Epoch 11/40
+10s - loss: 0.0385 - acc: 0.9895
+Epoch 12/40
+8s - loss: 0.0246 - acc: 0.9942
+Epoch 13/40
+10s - loss: 0.0252 - acc: 0.9922
+Epoch 14/40
+9s - loss: 0.0242 - acc: 0.9933
+Epoch 15/40
+6s - loss: 0.0231 - acc: 0.9932
+Epoch 16/40
+7s - loss: 0.0167 - acc: 0.9947
+Epoch 17/40
+7s - loss: 0.0189 - acc: 0.9944
+Epoch 18/40
+8s - loss: 0.0185 - acc: 0.9953
+Epoch 19/40
+7s - loss: 0.0218 - acc: 0.9934
+Epoch 20/40
+10s - loss: 0.0088 - acc: 0.9975
+Epoch 21/40
+6s - loss: 0.0191 - acc: 0.9948
+Epoch 22/40
+6s - loss: 0.0162 - acc: 0.9960
+Epoch 23/40
+8s - loss: 0.0088 - acc: 0.9973
+Epoch 24/40
+10s - loss: 0.0151 - acc: 0.9960
+Epoch 25/40
+9s - loss: 0.0082 - acc: 0.9977
+Epoch 26/40
+9s - loss: 0.0032 - acc: 0.9994
+Epoch 27/40
+13s - loss: 0.0130 - acc: 0.9975
+Epoch 28/40
+8s - loss: 0.0091 - acc: 0.9975
+Epoch 29/40
+8s - loss: 0.0305 - acc: 0.9920
+Epoch 30/40
+8s - loss: 0.0093 - acc: 0.9980
+Epoch 31/40
+8s - loss: 0.0073 - acc: 0.9985
+Epoch 32/40
+8s - loss: 0.0097 - acc: 0.9975
+Epoch 33/40
+7s - loss: 0.0059 - acc: 0.9976
+Epoch 34/40
+6s - loss: 0.0074 - acc: 0.9982
+Epoch 35/40
+6s - loss: 0.0059 - acc: 0.9989
+Epoch 36/40
+8s - loss: 0.0089 - acc: 0.9982
+Epoch 37/40
+8s - loss: 0.0070 - acc: 0.9981
+Epoch 38/40
+8s - loss: 0.0094 - acc: 0.9977
+Epoch 39/40
+8s - loss: 0.0062 - acc: 0.9982
+Epoch 40/40
+8s - loss: 0.0077 - acc: 0.9976
+Training AUPRC -   0.9931
+Saving the model...

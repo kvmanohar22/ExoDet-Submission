@@ -1,0 +1,5 @@
+Epoch 1/1
+ - 21s - loss: 0.7051 - acc: 0.5526
+Saving the model...
+
+Do you really want to exit ([y]/n)? 

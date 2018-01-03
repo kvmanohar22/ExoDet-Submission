@@ -1,0 +1,93 @@
+Epoch 1/40
+149s - loss: 0.5100 - acc: 0.7354
+Epoch 2/40
+162s - loss: 0.1649 - acc: 0.9394
+Epoch 3/40
+154s - loss: 0.0898 - acc: 0.9740
+Epoch 4/40
+151s - loss: 0.0807 - acc: 0.9740
+Epoch 5/40
+158s - loss: 0.0589 - acc: 0.9813
+Epoch 6/40
+167s - loss: 0.0356 - acc: 0.9886
+Epoch 7/40
+152s - loss: 0.0418 - acc: 0.9875
+Epoch 8/40
+160s - loss: 0.0559 - acc: 0.9813
+Epoch 9/40
+150s - loss: 0.0260 - acc: 0.9933
+Epoch 10/40
+206s - loss: 0.0217 - acc: 0.9927
+Epoch 11/40
+150s - loss: 0.0330 - acc: 0.9894
+Epoch 12/40
+157s - loss: 0.0214 - acc: 0.9941
+Epoch 13/40
+146s - loss: 0.0313 - acc: 0.9919
+Epoch 14/40
+152s - loss: 0.0210 - acc: 0.9933
+Epoch 15/40
+148s - loss: 0.0204 - acc: 0.9944
+Epoch 16/40
+147s - loss: 0.0164 - acc: 0.9948
+Epoch 17/40
+147s - loss: 0.0162 - acc: 0.9956
+Epoch 18/40
+148s - loss: 0.0187 - acc: 0.9944
+Epoch 19/40
+147s - loss: 0.0156 - acc: 0.9948
+Epoch 20/40
+148s - loss: 0.0093 - acc: 0.9973
+Epoch 21/40
+158s - loss: 0.0176 - acc: 0.9951
+Epoch 22/40
+145s - loss: 0.0126 - acc: 0.9962
+Epoch 23/40
+145s - loss: 0.0141 - acc: 0.9959
+Epoch 24/40
+169s - loss: 0.0195 - acc: 0.9941
+Epoch 25/40
+179s - loss: 0.0112 - acc: 0.9970
+Epoch 26/40
+182s - loss: 0.0125 - acc: 0.9959
+Epoch 27/40
+166s - loss: 0.0058 - acc: 0.9979
+Epoch 28/40
+169s - loss: 0.0126 - acc: 0.9957
+Epoch 29/40
+162s - loss: 0.0054 - acc: 0.9983
+Epoch 30/40
+158s - loss: 0.0048 - acc: 0.9986
+Epoch 31/40
+150s - loss: 0.0051 - acc: 0.9984
+Epoch 32/40
+143s - loss: 0.0129 - acc: 0.9954
+Epoch 33/40
+152s - loss: 0.0096 - acc: 0.9971
+Epoch 34/40
+178s - loss: 0.0158 - acc: 0.9946
+Epoch 35/40
+194s - loss: 0.0071 - acc: 0.9987
+Epoch 36/40
+195s - loss: 0.0051 - acc: 0.9987
+Epoch 37/40
+192s - loss: 0.0048 - acc: 0.9979
+Epoch 38/40
+170s - loss: 0.0039 - acc: 0.9992
+Epoch 39/40
+197s - loss: 0.0172 - acc: 0.9956
+Epoch 40/40
+204s - loss: 0.0064 - acc: 0.9979
+[Fold 1]: 
+Fold Summary:  Training AUPRC -   0.9971
+AUC -   0.9971 		AUPRC -   0.7161 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.9290          0.8571          0.8571          0.8571          0.8559          1          1          6        785
+         0.0360          0.3889          1.0000          0.5600          0.9860         11          0          7        775
+         0.2500          0.5000          0.8571          0.6316          0.8495          6          1          6        780
+         0.5000          0.5455          0.8571          0.6667          0.8508          5          1          6        781
+         0.7500          0.6667          0.8571          0.7500          0.8533          3          1          6        783
+
+
+Epoch 1/40

@@ -1,0 +1,19 @@
+Epoch 1/40
+ - 389s - loss: 0.4974 - acc: 0.7418
+Epoch 2/40
+ - 383s - loss: 0.1993 - acc: 0.9299
+Epoch 3/40
+ - 386s - loss: 0.1346 - acc: 0.9516
+Epoch 4/40
+ - 385s - loss: 0.1014 - acc: 0.9683
+Epoch 5/40
+ - 384s - loss: 0.1120 - acc: 0.9629
+Epoch 6/40
+ - 384s - loss: 0.0690 - acc: 0.9776
+Epoch 7/40
+ - 385s - loss: 0.0675 - acc: 0.9795
+Epoch 8/40
+ - 386s - loss: 0.0501 - acc: 0.9845
+Epoch 9/40
+ - 386s - loss: 0.0404 - acc: 0.9887
+Epoch 10/40

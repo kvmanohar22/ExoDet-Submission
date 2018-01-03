@@ -1,0 +1,6 @@
+
+
+Hyper-Parameters: 
+ - logistic_penalty..............: l2
+ - logistic_max_iter.............: 300
+ - logistic_C....................: 0.00112447484551

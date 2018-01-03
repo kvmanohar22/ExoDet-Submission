@@ -1,0 +1,163 @@
+
+
+Hyper-Parameters: 
+ - lr............................: 0.0003738134879
+ - dropout2......................: 0.25
+ - dropout1......................: 0.75
+Epoch 1/40
+ - 6s - loss: 0.7455 - acc: 0.5384
+Epoch 2/40
+ - 6s - loss: 0.6943 - acc: 0.5677
+Epoch 3/40
+ - 6s - loss: 0.6794 - acc: 0.5952
+Epoch 4/40
+ - 6s - loss: 0.6822 - acc: 0.5853
+Epoch 5/40
+ - 6s - loss: 0.6779 - acc: 0.5904
+Epoch 6/40
+ - 6s - loss: 0.6754 - acc: 0.5987
+Epoch 7/40
+ - 6s - loss: 0.6686 - acc: 0.6087
+Epoch 8/40
+ - 6s - loss: 0.6697 - acc: 0.6014
+Epoch 9/40
+ - 6s - loss: 0.6572 - acc: 0.6221
+Epoch 10/40
+ - 6s - loss: 0.6545 - acc: 0.6271
+Epoch 11/40
+ - 6s - loss: 0.6252 - acc: 0.6648
+Epoch 12/40
+ - 6s - loss: 0.5961 - acc: 0.6957
+Epoch 13/40
+ - 6s - loss: 0.5701 - acc: 0.7235
+Epoch 14/40
+ - 6s - loss: 0.5072 - acc: 0.7732
+Epoch 15/40
+ - 7s - loss: 0.4755 - acc: 0.7885
+Epoch 16/40
+ - 8s - loss: 0.4750 - acc: 0.7866
+Epoch 17/40
+ - 8s - loss: 0.4454 - acc: 0.8000
+Epoch 18/40
+ - 8s - loss: 0.4226 - acc: 0.8050
+Epoch 19/40
+ - 8s - loss: 0.3957 - acc: 0.8225
+Epoch 20/40
+ - 8s - loss: 0.3531 - acc: 0.8488
+Epoch 21/40
+ - 8s - loss: 0.3491 - acc: 0.8463
+Epoch 22/40
+ - 8s - loss: 0.3000 - acc: 0.8704
+Epoch 23/40
+ - 8s - loss: 0.2864 - acc: 0.8801
+Epoch 24/40
+ - 8s - loss: 0.2847 - acc: 0.8826
+Epoch 25/40
+ - 8s - loss: 0.2660 - acc: 0.8855
+Epoch 26/40
+ - 8s - loss: 0.2609 - acc: 0.8953
+Epoch 27/40
+ - 8s - loss: 0.2701 - acc: 0.8890
+Epoch 28/40
+ - 8s - loss: 0.2421 - acc: 0.9043
+Epoch 29/40
+ - 8s - loss: 0.2437 - acc: 0.8964
+Epoch 30/40
+ - 8s - loss: 0.2332 - acc: 0.9012
+Epoch 31/40
+ - 8s - loss: 0.2212 - acc: 0.9083
+Epoch 32/40
+ - 8s - loss: 0.2365 - acc: 0.9045
+Epoch 33/40
+ - 8s - loss: 0.2244 - acc: 0.9067
+Epoch 34/40
+ - 8s - loss: 0.2109 - acc: 0.9155
+Epoch 35/40
+ - 8s - loss: 0.2067 - acc: 0.9158
+Epoch 36/40
+ - 8s - loss: 0.2000 - acc: 0.9170
+Epoch 37/40
+ - 8s - loss: 0.2081 - acc: 0.9121
+Epoch 38/40
+ - 8s - loss: 0.1837 - acc: 0.9278
+Epoch 39/40
+ - 8s - loss: 0.1848 - acc: 0.9223
+Epoch 40/40
+ - 8s - loss: 0.1857 - acc: 0.9227
+Epoch 1/40
+ - 9s - loss: 0.7301 - acc: 0.5262
+Epoch 2/40
+ - 8s - loss: 0.7004 - acc: 0.5533
+Epoch 3/40
+ - 8s - loss: 0.6873 - acc: 0.5707
+Epoch 4/40
+ - 8s - loss: 0.6856 - acc: 0.5668
+Epoch 5/40
+ - 8s - loss: 0.6817 - acc: 0.5855
+Epoch 6/40
+ - 8s - loss: 0.6743 - acc: 0.5895
+Epoch 7/40
+ - 8s - loss: 0.6731 - acc: 0.5984
+Epoch 8/40
+ - 8s - loss: 0.6613 - acc: 0.6090
+Epoch 9/40
+ - 8s - loss: 0.6585 - acc: 0.6139
+Epoch 10/40
+ - 8s - loss: 0.6350 - acc: 0.6494
+Epoch 11/40
+ - 8s - loss: 0.5888 - acc: 0.7023
+Epoch 12/40
+ - 8s - loss: 0.5675 - acc: 0.7208
+Epoch 13/40
+ - 8s - loss: 0.5314 - acc: 0.7400
+Epoch 14/40
+ - 8s - loss: 0.5037 - acc: 0.7660
+Epoch 15/40
+ - 8s - loss: 0.5008 - acc: 0.7600
+Epoch 16/40
+ - 8s - loss: 0.4799 - acc: 0.7779
+Epoch 17/40
+ - 8s - loss: 0.4615 - acc: 0.7922
+Epoch 18/40
+ - 8s - loss: 0.4378 - acc: 0.8065
+Epoch 19/40
+ - 8s - loss: 0.4180 - acc: 0.8123
+Epoch 20/40
+ - 8s - loss: 0.4098 - acc: 0.8157
+Epoch 21/40
+ - 8s - loss: 0.4162 - acc: 0.8135
+Epoch 22/40
+ - 8s - loss: 0.4048 - acc: 0.8190
+Epoch 23/40
+ - 8s - loss: 0.3779 - acc: 0.8357
+Epoch 24/40
+ - 8s - loss: 0.3821 - acc: 0.8309
+Epoch 25/40
+ - 7s - loss: 0.3628 - acc: 0.8388
+Epoch 26/40
+ - 6s - loss: 0.3513 - acc: 0.8450
+Epoch 27/40
+ - 6s - loss: 0.3473 - acc: 0.8518
+Epoch 28/40
+ - 6s - loss: 0.3337 - acc: 0.8604
+Epoch 29/40
+ - 6s - loss: 0.3316 - acc: 0.8536
+Epoch 30/40
+ - 6s - loss: 0.3053 - acc: 0.8647
+Epoch 31/40
+ - 6s - loss: 0.3064 - acc: 0.8645
+Epoch 32/40
+ - 6s - loss: 0.3173 - acc: 0.8623
+Epoch 33/40
+ - 6s - loss: 0.2909 - acc: 0.8723
+Epoch 34/40
+ - 6s - loss: 0.2991 - acc: 0.8685
+Epoch 35/40
+ - 6s - loss: 0.3056 - acc: 0.8639
+Epoch 36/40
+ - 7s - loss: 0.3070 - acc: 0.8599
+Epoch 37/40
+ - 8s - loss: 0.2748 - acc: 0.8847
+Epoch 38/40
+ - 8s - loss: 0.2821 - acc: 0.8720
+Epoch 39/40

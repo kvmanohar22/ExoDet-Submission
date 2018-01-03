@@ -1,0 +1,471 @@
+Epoch 1/40
+ - 11s - loss: 0.7023 - acc: 0.5574
+Epoch 2/40
+ - 10s - loss: 0.6294 - acc: 0.6294
+Epoch 3/40
+ - 10s - loss: 0.5998 - acc: 0.6551
+Epoch 4/40
+ - 10s - loss: 0.5819 - acc: 0.6732
+Epoch 5/40
+ - 10s - loss: 0.5424 - acc: 0.6913
+Epoch 6/40
+ - 10s - loss: 0.5207 - acc: 0.7021
+Epoch 7/40
+ - 10s - loss: 0.5150 - acc: 0.7030
+Epoch 8/40
+ - 10s - loss: 0.4878 - acc: 0.7257
+Epoch 9/40
+ - 10s - loss: 0.4800 - acc: 0.7314
+Epoch 10/40
+ - 10s - loss: 0.4527 - acc: 0.7565
+Epoch 11/40
+ - 10s - loss: 0.3975 - acc: 0.8055
+Epoch 12/40
+ - 10s - loss: 0.3251 - acc: 0.8569
+Epoch 13/40
+ - 10s - loss: 0.2818 - acc: 0.8780
+Epoch 14/40
+ - 10s - loss: 0.2363 - acc: 0.8972
+Epoch 15/40
+ - 10s - loss: 0.2048 - acc: 0.9164
+Epoch 16/40
+ - 10s - loss: 0.1884 - acc: 0.9278
+Epoch 17/40
+ - 10s - loss: 0.1850 - acc: 0.9251
+Epoch 18/40
+ - 10s - loss: 0.1568 - acc: 0.9413
+Epoch 19/40
+ - 10s - loss: 0.1514 - acc: 0.9453
+Epoch 20/40
+ - 10s - loss: 0.1463 - acc: 0.9456
+Epoch 21/40
+ - 10s - loss: 0.1435 - acc: 0.9450
+Epoch 22/40
+ - 10s - loss: 0.1222 - acc: 0.9561
+Epoch 23/40
+ - 10s - loss: 0.1258 - acc: 0.9508
+Epoch 24/40
+ - 10s - loss: 0.1259 - acc: 0.9540
+Epoch 25/40
+ - 10s - loss: 0.1011 - acc: 0.9645
+Epoch 26/40
+ - 10s - loss: 0.0986 - acc: 0.9638
+Epoch 27/40
+ - 10s - loss: 0.0904 - acc: 0.9664
+Epoch 28/40
+ - 10s - loss: 0.1065 - acc: 0.9613
+Epoch 29/40
+ - 10s - loss: 0.0956 - acc: 0.9641
+Epoch 30/40
+ - 10s - loss: 0.0881 - acc: 0.9684
+Epoch 31/40
+ - 10s - loss: 0.0756 - acc: 0.9718
+Epoch 32/40
+ - 10s - loss: 0.0788 - acc: 0.9730
+Epoch 33/40
+ - 10s - loss: 0.0910 - acc: 0.9651
+Epoch 34/40
+ - 10s - loss: 0.0854 - acc: 0.9705
+Epoch 35/40
+ - 10s - loss: 0.0678 - acc: 0.9762
+Epoch 36/40
+ - 10s - loss: 0.0782 - acc: 0.9705
+Epoch 37/40
+ - 10s - loss: 0.0653 - acc: 0.9772
+Epoch 38/40
+ - 10s - loss: 0.0764 - acc: 0.9745
+Epoch 39/40
+ - 10s - loss: 0.0772 - acc: 0.9719
+Epoch 40/40
+ - 10s - loss: 0.0654 - acc: 0.9770
+[Fold 1]: 
+Fold Summary:  AUC -   0.9860 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.9990          1.0000          0.5714          0.7273          0.5714          0          3          4        786
+         0.0780          0.0897          1.0000          0.1647          0.9097         71          0          7        715
+         0.2500          0.1111          0.8571          0.1967          0.7961         48          1          6        738
+         0.5000          0.1429          0.8571          0.2449          0.8113         36          1          6        750
+         0.7500          0.1765          0.8571          0.2927          0.8215         28          1          6        758
+
+
+Epoch 1/40
+ - 11s - loss: 0.7165 - acc: 0.5116
+Epoch 2/40
+ - 10s - loss: 0.6938 - acc: 0.5411
+Epoch 3/40
+ - 10s - loss: 0.6316 - acc: 0.6036
+Epoch 4/40
+ - 10s - loss: 0.6187 - acc: 0.6334
+Epoch 5/40
+ - 10s - loss: 0.6116 - acc: 0.6240
+Epoch 6/40
+ - 10s - loss: 0.6033 - acc: 0.6407
+Epoch 7/40
+ - 10s - loss: 0.6050 - acc: 0.6423
+Epoch 8/40
+ - 10s - loss: 0.5952 - acc: 0.6418
+Epoch 9/40
+ - 10s - loss: 0.5931 - acc: 0.6463
+Epoch 10/40
+ - 10s - loss: 0.5839 - acc: 0.6564
+Epoch 11/40
+ - 10s - loss: 0.5886 - acc: 0.6539
+Epoch 12/40
+ - 10s - loss: 0.5728 - acc: 0.6758
+Epoch 13/40
+ - 10s - loss: 0.5555 - acc: 0.6957
+Epoch 14/40
+ - 10s - loss: 0.4935 - acc: 0.7476
+Epoch 15/40
+ - 10s - loss: 0.4261 - acc: 0.7946
+Epoch 16/40
+ - 10s - loss: 0.3728 - acc: 0.8285
+Epoch 17/40
+ - 10s - loss: 0.3239 - acc: 0.8571
+Epoch 18/40
+ - 10s - loss: 0.2873 - acc: 0.8775
+Epoch 19/40
+ - 10s - loss: 0.2583 - acc: 0.8886
+Epoch 20/40
+ - 10s - loss: 0.2331 - acc: 0.8963
+Epoch 21/40
+ - 10s - loss: 0.2135 - acc: 0.9140
+Epoch 22/40
+ - 10s - loss: 0.1869 - acc: 0.9258
+Epoch 23/40
+ - 10s - loss: 0.1831 - acc: 0.9266
+Epoch 24/40
+ - 10s - loss: 0.1567 - acc: 0.9367
+Epoch 25/40
+ - 10s - loss: 0.1527 - acc: 0.9410
+Epoch 26/40
+ - 10s - loss: 0.1412 - acc: 0.9461
+Epoch 27/40
+ - 10s - loss: 0.1392 - acc: 0.9483
+Epoch 28/40
+ - 10s - loss: 0.1280 - acc: 0.9518
+Epoch 29/40
+ - 10s - loss: 0.1161 - acc: 0.9575
+Epoch 30/40
+ - 10s - loss: 0.1122 - acc: 0.9575
+Epoch 31/40
+ - 10s - loss: 0.1086 - acc: 0.9597
+Epoch 32/40
+ - 10s - loss: 0.1009 - acc: 0.9635
+Epoch 33/40
+ - 10s - loss: 0.0981 - acc: 0.9637
+Epoch 34/40
+ - 10s - loss: 0.0993 - acc: 0.9599
+Epoch 35/40
+ - 10s - loss: 0.1041 - acc: 0.9611
+Epoch 36/40
+ - 10s - loss: 0.0938 - acc: 0.9657
+Epoch 37/40
+ - 10s - loss: 0.0829 - acc: 0.9691
+Epoch 38/40
+ - 10s - loss: 0.0728 - acc: 0.9732
+Epoch 39/40
+ - 10s - loss: 0.0909 - acc: 0.9688
+Epoch 40/40
+ - 10s - loss: 0.0771 - acc: 0.9738
+[Fold 2]: 
+Fold Summary:  AUC -   0.9099 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.6950          1.0000          0.5714          0.7273          0.5714          0          3          4        786
+         0.0080          0.0577          0.8571          0.1081          0.7325         98          1          6        688
+         0.2500          0.3077          0.5714          0.4000          0.5600          9          3          4        777
+         0.5000          0.6667          0.5714          0.6154          0.5689          2          3          4        784
+         0.7500          1.0000          0.5714          0.7273          0.5714          0          3          4        786
+
+
+Epoch 1/40
+ - 11s - loss: 0.6621 - acc: 0.6105
+Epoch 2/40
+ - 10s - loss: 0.5828 - acc: 0.6738
+Epoch 3/40
+ - 10s - loss: 0.5807 - acc: 0.6758
+Epoch 4/40
+ - 10s - loss: 0.5531 - acc: 0.7019
+Epoch 5/40
+ - 10s - loss: 0.5544 - acc: 0.7020
+Epoch 6/40
+ - 10s - loss: 0.5512 - acc: 0.6960
+Epoch 7/40
+ - 10s - loss: 0.5361 - acc: 0.7034
+Epoch 8/40
+ - 10s - loss: 0.4625 - acc: 0.7552
+Epoch 9/40
+ - 10s - loss: 0.3853 - acc: 0.8104
+Epoch 10/40
+ - 10s - loss: 0.3295 - acc: 0.8453
+Epoch 11/40
+ - 10s - loss: 0.2781 - acc: 0.8830
+Epoch 12/40
+ - 10s - loss: 0.2400 - acc: 0.9021
+Epoch 13/40
+ - 10s - loss: 0.2109 - acc: 0.9124
+Epoch 14/40
+ - 10s - loss: 0.1918 - acc: 0.9200
+Epoch 15/40
+ - 10s - loss: 0.1682 - acc: 0.9315
+Epoch 16/40
+ - 10s - loss: 0.1704 - acc: 0.9279
+Epoch 17/40
+ - 10s - loss: 0.1553 - acc: 0.9380
+Epoch 18/40
+ - 10s - loss: 0.1259 - acc: 0.9479
+Epoch 19/40
+ - 10s - loss: 0.1323 - acc: 0.9492
+Epoch 20/40
+ - 10s - loss: 0.1211 - acc: 0.9509
+Epoch 21/40
+ - 10s - loss: 0.1106 - acc: 0.9582
+Epoch 22/40
+ - 10s - loss: 0.1173 - acc: 0.9557
+Epoch 23/40
+ - 10s - loss: 0.1101 - acc: 0.9583
+Epoch 24/40
+ - 10s - loss: 0.1097 - acc: 0.9577
+Epoch 25/40
+ - 10s - loss: 0.1018 - acc: 0.9615
+Epoch 26/40
+ - 10s - loss: 0.0986 - acc: 0.9646
+Epoch 27/40
+ - 10s - loss: 0.0986 - acc: 0.9631
+Epoch 28/40
+ - 10s - loss: 0.0895 - acc: 0.9664
+Epoch 29/40
+ - 10s - loss: 0.0863 - acc: 0.9670
+Epoch 30/40
+ - 10s - loss: 0.0820 - acc: 0.9700
+Epoch 31/40
+ - 10s - loss: 0.0741 - acc: 0.9744
+Epoch 32/40
+ - 10s - loss: 0.0786 - acc: 0.9695
+Epoch 33/40
+ - 10s - loss: 0.0855 - acc: 0.9692
+Epoch 34/40
+ - 10s - loss: 0.0744 - acc: 0.9736
+Epoch 35/40
+ - 11s - loss: 0.0729 - acc: 0.9735
+Epoch 36/40
+ - 10s - loss: 0.0795 - acc: 0.9706
+Epoch 37/40
+ - 10s - loss: 0.0785 - acc: 0.9733
+Epoch 38/40
+ - 10s - loss: 0.0723 - acc: 0.9735
+Epoch 39/40
+ - 13s - loss: 0.0662 - acc: 0.9752
+Epoch 40/40
+ - 13s - loss: 0.0712 - acc: 0.9744
+[Fold 3]: 
+Fold Summary:  AUC -   0.9212 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.9550          0.8000          0.5714          0.6667          0.5702          1          3          4        784
+         0.2250          0.0833          0.8571          0.1519          0.7731         66          1          6        719
+         0.2500          0.0725          0.7143          0.1316          0.6328         64          2          5        721
+         0.5000          0.0889          0.5714          0.1538          0.5192         41          3          4        744
+         0.7500          0.1667          0.5714          0.2581          0.5460         20          3          4        765
+
+
+Epoch 1/40
+ - 12s - loss: 0.6704 - acc: 0.5993
+Epoch 2/40
+ - 10s - loss: 0.6177 - acc: 0.6420
+Epoch 3/40
+ - 10s - loss: 0.5908 - acc: 0.6667
+Epoch 4/40
+ - 10s - loss: 0.5945 - acc: 0.6684
+Epoch 5/40
+ - 10s - loss: 0.6035 - acc: 0.6559
+Epoch 6/40
+ - 10s - loss: 0.5958 - acc: 0.6645
+Epoch 7/40
+ - 10s - loss: 0.5646 - acc: 0.6921
+Epoch 8/40
+ - 10s - loss: 0.5257 - acc: 0.7137
+Epoch 9/40
+ - 10s - loss: 0.4760 - acc: 0.7413
+Epoch 10/40
+ - 10s - loss: 0.4509 - acc: 0.7663
+Epoch 11/40
+ - 10s - loss: 0.4267 - acc: 0.7850
+Epoch 12/40
+ - 10s - loss: 0.4180 - acc: 0.7882
+Epoch 13/40
+ - 10s - loss: 0.3965 - acc: 0.8038
+Epoch 14/40
+ - 10s - loss: 0.3756 - acc: 0.8166
+Epoch 15/40
+ - 10s - loss: 0.3651 - acc: 0.8294
+Epoch 16/40
+ - 10s - loss: 0.3322 - acc: 0.8428
+Epoch 17/40
+ - 10s - loss: 0.3130 - acc: 0.8622
+Epoch 18/40
+ - 10s - loss: 0.2816 - acc: 0.8813
+Epoch 19/40
+ - 10s - loss: 0.2407 - acc: 0.9026
+Epoch 20/40
+ - 10s - loss: 0.2232 - acc: 0.9092
+Epoch 21/40
+ - 10s - loss: 0.2048 - acc: 0.9167
+Epoch 22/40
+ - 10s - loss: 0.1882 - acc: 0.9269
+Epoch 23/40
+ - 10s - loss: 0.1708 - acc: 0.9358
+Epoch 24/40
+ - 10s - loss: 0.1520 - acc: 0.9407
+Epoch 25/40
+ - 10s - loss: 0.1392 - acc: 0.9470
+Epoch 26/40
+ - 10s - loss: 0.1576 - acc: 0.9400
+Epoch 27/40
+ - 10s - loss: 0.1384 - acc: 0.9471
+Epoch 28/40
+ - 10s - loss: 0.1191 - acc: 0.9571
+Epoch 29/40
+ - 10s - loss: 0.1113 - acc: 0.9588
+Epoch 30/40
+ - 11s - loss: 0.1170 - acc: 0.9585
+Epoch 31/40
+ - 10s - loss: 0.1161 - acc: 0.9585
+Epoch 32/40
+ - 10s - loss: 0.1110 - acc: 0.9596
+Epoch 33/40
+ - 11s - loss: 0.1014 - acc: 0.9654
+Epoch 34/40
+ - 11s - loss: 0.0970 - acc: 0.9651
+Epoch 35/40
+ - 11s - loss: 0.1023 - acc: 0.9629
+Epoch 36/40
+ - 11s - loss: 0.0987 - acc: 0.9624
+Epoch 37/40
+ - 11s - loss: 0.0833 - acc: 0.9686
+Epoch 38/40
+ - 10s - loss: 0.0904 - acc: 0.9675
+Epoch 39/40
+ - 10s - loss: 0.0880 - acc: 0.9680
+Epoch 40/40
+ - 10s - loss: 0.0887 - acc: 0.9673
+[Fold 4]: 
+Fold Summary:  AUC -   0.9656 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.8470          0.6000          0.5000          0.5455          0.4975          2          3          3        783
+         0.0050          0.0400          1.0000          0.0769          0.8166        144          0          6        641
+         0.2500          0.2381          0.8333          0.3704          0.8130         16          1          5        769
+         0.5000          0.3077          0.6667          0.4211          0.6552          9          2          4        776
+         0.7500          0.4286          0.5000          0.4615          0.4949          4          3          3        781
+
+
+Epoch 1/40
+ - 11s - loss: 0.7220 - acc: 0.5032
+Epoch 2/40
+ - 10s - loss: 0.6670 - acc: 0.5800
+Epoch 3/40
+ - 10s - loss: 0.6127 - acc: 0.6375
+Epoch 4/40
+ - 10s - loss: 0.6004 - acc: 0.6534
+Epoch 5/40
+ - 10s - loss: 0.5958 - acc: 0.6517
+Epoch 6/40
+ - 11s - loss: 0.5925 - acc: 0.6566
+Epoch 7/40
+ - 11s - loss: 0.5783 - acc: 0.6730
+Epoch 8/40
+ - 10s - loss: 0.5365 - acc: 0.7049
+Epoch 9/40
+ - 10s - loss: 0.5039 - acc: 0.7309
+Epoch 10/40
+ - 11s - loss: 0.4969 - acc: 0.7429
+Epoch 11/40
+ - 11s - loss: 0.4587 - acc: 0.7682
+Epoch 12/40
+ - 10s - loss: 0.4454 - acc: 0.7806
+Epoch 13/40
+ - 10s - loss: 0.3680 - acc: 0.8316
+Epoch 14/40
+ - 10s - loss: 0.3049 - acc: 0.8657
+Epoch 15/40
+ - 10s - loss: 0.2721 - acc: 0.8796
+Epoch 16/40
+ - 10s - loss: 0.2328 - acc: 0.8995
+Epoch 17/40
+ - 10s - loss: 0.2030 - acc: 0.9168
+Epoch 18/40
+ - 10s - loss: 0.1920 - acc: 0.9208
+Epoch 19/40
+ - 10s - loss: 0.1877 - acc: 0.9282
+Epoch 20/40
+ - 10s - loss: 0.1704 - acc: 0.9331
+Epoch 21/40
+ - 10s - loss: 0.1669 - acc: 0.9373
+Epoch 22/40
+ - 10s - loss: 0.1390 - acc: 0.9484
+Epoch 23/40
+ - 10s - loss: 0.1352 - acc: 0.9512
+Epoch 24/40
+ - 10s - loss: 0.1312 - acc: 0.9492
+Epoch 25/40
+ - 10s - loss: 0.1208 - acc: 0.9558
+Epoch 26/40
+ - 11s - loss: 0.1059 - acc: 0.9621
+Epoch 27/40
+ - 11s - loss: 0.1184 - acc: 0.9561
+Epoch 28/40
+ - 11s - loss: 0.0938 - acc: 0.9670
+Epoch 29/40
+ - 11s - loss: 0.0985 - acc: 0.9637
+Epoch 30/40
+ - 10s - loss: 0.0988 - acc: 0.9651
+Epoch 31/40
+ - 10s - loss: 0.0960 - acc: 0.9634
+Epoch 32/40
+ - 10s - loss: 0.0789 - acc: 0.9700
+Epoch 33/40
+ - 10s - loss: 0.0766 - acc: 0.9757
+Epoch 34/40
+ - 10s - loss: 0.0816 - acc: 0.9708
+Epoch 35/40
+ - 10s - loss: 0.0756 - acc: 0.9719
+Epoch 36/40
+ - 10s - loss: 0.0848 - acc: 0.9681
+Epoch 37/40
+ - 10s - loss: 0.0736 - acc: 0.9741
+Epoch 38/40
+ - 11s - loss: 0.0638 - acc: 0.9800
+Epoch 39/40
+ - 11s - loss: 0.0676 - acc: 0.9744
+Epoch 40/40
+ - 10s - loss: 0.0663 - acc: 0.9755
+[Fold 5]: 
+Fold Summary:  AUC -   0.9887 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.9770          1.0000          0.8333          0.9091          0.8333          0          1          5        785
+         0.1480          0.1017          1.0000          0.1846          0.9325         53          0          6        732
+         0.2500          0.1000          0.8333          0.1786          0.7760         45          1          5        740
+         0.5000          0.1724          0.8333          0.2857          0.8028         24          1          5        761
+         0.7500          0.2381          0.8333          0.3704          0.8130         16          1          5        769
+
+
+Complete Summary:  AUC -   0.9477 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.9770          0.8000          0.6061          0.6897          0.6048          5         13         20       3922
+         0.0790          0.0858          0.8788          0.1563          0.8001        309          4         29       3618
+         0.2500          0.1208          0.7576          0.2083          0.7112        182          8         25       3745
+         0.5000          0.1704          0.6970          0.2738          0.6684        112         10         23       3815
+         0.7500          0.2444          0.6667          0.3577          0.6494         68         11         22       3859
+
+
+Model parameters: 
+{   'batch_size': 32,
+    'build_fn': <function create_model at 0x7fb4aa07fed8>,
+    'epochs': 40,
+    'verbose': 2}
+

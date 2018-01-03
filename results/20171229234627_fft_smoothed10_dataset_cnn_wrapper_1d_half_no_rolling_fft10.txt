@@ -1,0 +1,9 @@
+Epoch 1/40
+ - 6s - loss: nan - acc: 0.0021
+Epoch 2/40
+ - 6s - loss: nan - acc: 0.0000e+00
+Epoch 3/40
+ - 6s - loss: nan - acc: 0.0000e+00
+Epoch 4/40
+ - 6s - loss: nan - acc: 0.0000e+00
+Epoch 5/40

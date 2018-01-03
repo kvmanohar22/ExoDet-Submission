@@ -1,0 +1,7 @@
+Epoch 1/40
+ - 6s - loss: 0.6922 - acc: 0.5865
+Epoch 2/40
+ - 6s - loss: 0.6738 - acc: 0.5976
+Epoch 3/40
+ - 6s - loss: 0.6533 - acc: 0.6210
+Epoch 4/40

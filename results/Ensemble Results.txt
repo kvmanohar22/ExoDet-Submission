@@ -1,0 +1,178 @@
+AUPRC: 0.9774, F1: 0.9231
+('probability_results/wavelet_db2_b_dataset_xgb', ReshapeTransform()),
+('probability_results/raw_normalized_gaussian50_dataset_cnn_wrapper_2d_tune', ReshapeTransform()),
+('probability_results/raw_normalized_smoothed_dataset_cnn_wrapper_window_slicing_size1000', ReshapeTransform()),
+('probability_results/detrend_gaussian10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_cnn_wrapper_1d_half', ReshapeTransform()),
+
+
+AUPRC: 0.9746, F1: 0.9062
+('probability_results/wavelet_db2_b_dataset_xgb', ReshapeTransform()),
+('probability_results/raw_normalized_gaussian50_dataset_cnn_wrapper_2d_tune', ReshapeTransform()),
+('probability_results/raw_normalized_smoothed_dataset_cnn_wrapper_window_slicing_size1000', ReshapeTransform()),
+('probability_results/detrend_gaussian10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_cnn_wrapper_1d_half', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_cnn_wrapper_1d_half', ReshapeTransform()),
+
+
+AUPRC: 0.9388, F1: 0.8986
+('probability_results/wavelet_db2_b_dataset_xgb', ReshapeTransform()),
+('probability_results/raw_normalized_gaussian50_dataset_cnn_wrapper_2d_tune', ReshapeTransform()),
+('probability_results/raw_normalized_smoothed_dataset_cnn_wrapper_window_slicing_size1000', ReshapeTransform()),
+('probability_results/detrend_gaussian10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_cnn_wrapper_1d_half', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_cnn_wrapper_1d_half', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_cnn_wrapper_1d_half', ReshapeTransform()),
+
+
+AUPRC: 0.9569, F1: 0.9206
+('probability_results/wavelet_db2_b_dataset_xgb', ReshapeTransform()),
+('probability_results/raw_normalized_gaussian50_dataset_cnn_wrapper_2d_tune', ReshapeTransform()),
+('probability_results/raw_normalized_smoothed_dataset_cnn_wrapper_window_slicing_size1000', ReshapeTransform()),
+('probability_results/detrend_gaussian10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+
+
+AUPRC: 0.9551, F1: 0.9032- Average
+('probability_results/raw_normalized_gaussian50_dataset_cnn_wrapper_2d_tune', ReshapeTransform()),
+('probability_results/raw_normalized_smoothed_dataset_cnn_wrapper_window_slicing_size1000', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_cnn_wrapper_1d_half', ReshapeTransform()),
+
+
+AUPRC: 0.8787, F1: 0.8615- Average
+('probability_results/raw_normalized_gaussian50_dataset_cnn_wrapper_2d_tune', ReshapeTransform()),
+('probability_results/detrend_gaussian10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_cnn_wrapper_1d_half', ReshapeTransform()),
+
+
+AUPRC: 0.9495, F1: 0.8657- Average
+('probability_results/raw_normalized_gaussian50_dataset_cnn_wrapper_2d_tune', ReshapeTransform()),
+('probability_results/raw_normalized_smoothed_dataset_cnn_wrapper_window_slicing_size1000', ReshapeTransform()),
+('probability_results/detrend_gaussian10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_cnn_wrapper_1d_half', ReshapeTransform()),
+
+
+AUPRC: 0.9272, F1: 0.8857- Average
+('probability_results/raw_normalized_gaussian50_dataset_cnn_wrapper_2d_tune', ReshapeTransform()),
+('probability_results/raw_normalized_smoothed_dataset_cnn_wrapper_window_slicing_size1000', ReshapeTransform()),
+('probability_results/detrend_gaussian10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_cnn_wrapper_1d_half', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_cnn_wrapper_1d_half', ReshapeTransform()),
+
+
+AUPRC: 0.9215, F1: 0.8986- Average
+('probability_results/raw_normalized_gaussian50_dataset_cnn_wrapper_2d_tune', ReshapeTransform()),
+('probability_results/raw_normalized_smoothed_dataset_cnn_wrapper_window_slicing_size1000', ReshapeTransform()),
+('probability_results/detrend_gaussian10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_cnn_wrapper_1d_half', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_cnn_wrapper_1d_half', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_cnn_wrapper_1d_half', ReshapeTransform()),
+
+
+AUPRC: 0.9294, F1: 0.8529- Average
+('probability_results/raw_normalized_gaussian50_dataset_cnn_wrapper_2d_tune', ReshapeTransform()),
+('probability_results/raw_normalized_smoothed_dataset_cnn_wrapper_window_slicing_size1000', ReshapeTransform()),
+('probability_results/detrend_gaussian10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_cnn_wrapper_1d_half', ReshapeTransform()),
+('probability_results/fft_normalized_dataset_onesided_pca_xgb_tune', ReshapeTransform()),
+
+
+AUPRC: 0.9042, F1: 0.8406- Average
+('probability_results/raw_normalized_gaussian50_dataset_cnn_wrapper_2d_tune', ReshapeTransform()),
+('probability_results/raw_normalized_smoothed_dataset_cnn_wrapper_window_slicing_size1000', ReshapeTransform()),
+('probability_results/detrend_gaussian10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_cnn_wrapper_1d_half', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_cnn_wrapper_fft_tuned', ReshapeTransform()),
+
+
+AUPRC: 0.9198, F1: 0.8493- Average | AUPRC: 0.7218, F1: 0.7273
+('probability_results/raw_normalized_gaussian50_dataset_cnn_wrapper_2d_tune', ReshapeTransform()),
+('probability_results/raw_normalized_smoothed_dataset_cnn_wrapper_window_slicing_size1000', ReshapeTransform()),
+('probability_results/detrend_gaussian10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+
+
+AUPRC: 0.8971, F1: 0.8378- Average
+('probability_results/raw_normalized_gaussian50_dataset_cnn_wrapper_2d_tune', ReshapeTransform()),
+('probability_results/raw_normalized_smoothed_dataset_cnn_wrapper_window_slicing_size1000', ReshapeTransform()),
+('probability_results/detrend_gaussian10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_normalized_dataset_onesided_pca_xgb_tune', ReshapeTransform()),
+
+
+AUPRC: 0.8915, F1: 0.8333
+('probability_results/raw_normalized_gaussian50_dataset_cnn_wrapper_2d_tune', ReshapeTransform()),
+('probability_results/raw_normalized_smoothed_dataset_cnn_wrapper_2d_tune', ReshapeTransform()),
+('probability_results/raw_normalized_smoothed_dataset_cnn_wrapper_window_slicing_size1000', ReshapeTransform()),
+('probability_results/detrend_gaussian10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+
+
+AUPRC: 0.8046, F1: 0.7619
+('probability_results/raw_normalized_smoothed_dataset_cnn_wrapper_2d_tune', ReshapeTransform()),
+('probability_results/raw_normalized_smoothed_dataset_cnn_wrapper_window_slicing_size1000', ReshapeTransform()),
+('probability_results/detrend_gaussian10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+
+
+AUPRC: 0.8789, F1: 0.8169
+('probability_results/raw_normalized_gaussian50_dataset_cnn_wrapper_2d_tune', ReshapeTransform()),
+('probability_results/raw_normalized_smoothed_dataset_cnn_wrapper_window_slicing_size1000', ReshapeTransform()),
+('probability_results/detrend_gaussian10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_cnn_wrapper_fft_tuned', ReshapeTransform()),
+
+
+AUPRC: 0.8874, F1: 0.8378
+('probability_results/raw_normalized_gaussian50_dataset_cnn_wrapper_2d_tune', ReshapeTransform()),
+('probability_results/raw_normalized_smoothed_dataset_cnn_wrapper_window_slicing_size1000', ReshapeTransform()),
+('probability_results/detrend_gaussian10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_lle_xgb_tune', ReshapeTransform()),
+
+
+AUPRC: 0.9209, F1: 0.8529- Average
+('probability_results/raw_normalized_gaussian50_dataset_cnn_wrapper_2d_tune', ReshapeTransform()),
+('probability_results/raw_normalized_smoothed_dataset_cnn_wrapper_window_slicing_size1000', ReshapeTransform()),
+('probability_results/detrend_gaussian10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_cnn_wrapper_1d_half', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_lle_xgb_tune', ReshapeTransform()),
+
+
+AUPRC: 0.8449, F1: 0.8169
+('probability_results/raw_normalized_gaussian50_dataset_cnn_wrapper_2d_tune', ReshapeTransform()),
+('probability_results/raw_normalized_smoothed_dataset_cnn_wrapper_window_slicing_size1000', ReshapeTransform()),
+('probability_results/detrend_gaussian10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_edited_nn_pca_xgb_tune', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_cnn_wrapper_fft_tuned', ReshapeTransform()),
+('probability_results/fft_smoothed10_dataset_lle_xgb_tune', ReshapeTransform()),

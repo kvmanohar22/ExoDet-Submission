@@ -1,0 +1,87 @@
+[Fold 1]: 
+Fold Summary:  AUC -   0.9913 		AUPRC -   0.3437 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.0340          0.4667          1.0000          0.6364          0.9898          8          0          7        778
+         0.0340          0.4667          1.0000          0.6364          0.9898          8          0          7        778
+         0.2500          0.1429          0.1429          0.1429          0.1352          6          6          1        780
+         0.5000          0.0000          0.0000          0.0000         -0.0051          4          7          0        782
+         0.7500          0.0000          0.0000          0.0000         -0.0051          4          7          0        782
+
+
+[Fold 2]: 
+Fold Summary:  AUC -   0.9998 		AUPRC -   0.9821 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.0540          0.8750          1.0000          0.9333          0.9987          1          0          7        785
+         0.0540          0.8750          1.0000          0.9333          0.9987          1          0          7        785
+         0.2500          0.8750          1.0000          0.9333          0.9987          1          0          7        785
+         0.5000          0.8750          1.0000          0.9333          0.9987          1          0          7        785
+         0.7500          0.8750          1.0000          0.9333          0.9987          1          0          7        785
+
+
+[Fold 3]: 
+Fold Summary:  AUC -   0.9955 		AUPRC -   0.8548 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.9250          1.0000          0.7143          0.8333          0.7143          0          2          5        785
+         0.0180          0.2333          1.0000          0.3784          0.9707         23          0          7        762
+         0.2500          0.7500          0.8571          0.8000          0.8546          2          1          6        783
+         0.5000          0.7500          0.8571          0.8000          0.8546          2          1          6        783
+         0.7500          0.7143          0.7143          0.7143          0.7117          2          2          5        783
+
+
+[Fold 4]: 
+Fold Summary:  AUC -   1.0000 		AUPRC -   1.0000 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.0340          1.0000          1.0000          1.0000          1.0000          0          0          6        785
+         0.0340          1.0000          1.0000          1.0000          1.0000          0          0          6        785
+         0.2500          1.0000          1.0000          1.0000          1.0000          0          0          6        785
+         0.5000          1.0000          1.0000          1.0000          1.0000          0          0          6        785
+         0.7500          1.0000          0.8333          0.9091          0.8333          0          1          5        785
+
+
+[Fold 5]: 
+Fold Summary:  AUC -   0.9800 		AUPRC -   0.5684 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.1780          1.0000          0.5000          0.6667          0.5000          0          3          3        785
+         0.0030          0.1500          1.0000          0.2609          0.9567         34          0          6        751
+         0.2500          1.0000          0.5000          0.6667          0.5000          0          3          3        785
+         0.5000          1.0000          0.5000          0.6667          0.5000          0          3          3        785
+         0.7500          1.0000          0.5000          0.6667          0.5000          0          3          3        785
+
+
+Complete Summary:  AUC -   0.9946 		AUPRC -   0.7218 
+
+      Threshold       Precision          Recall        F1-Score     Skill Score         FP         FN         TP         TN
+         0.1780          0.7273          0.7273          0.7273          0.7250          9          9         24       3918
+         0.0030          0.1535          1.0000          0.2661          0.9537        182          0         33       3745
+         0.2500          0.7188          0.6970          0.7077          0.6947          9         10         23       3918
+         0.5000          0.7586          0.6667          0.7097          0.6649          7         11         22       3920
+         0.7500          0.7407          0.6061          0.6667          0.6043          7         13         20       3920
+
+
+Model parameters: 
+{   'SVC': SVC(C=1, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=True, random_state=2017, shrinking=True,
+  tol=0.001, verbose=False),
+    'SVC__C': 1,
+    'SVC__cache_size': 200,
+    'SVC__class_weight': None,
+    'SVC__coef0': 0.0,
+    'SVC__decision_function_shape': 'ovr',
+    'SVC__degree': 3,
+    'SVC__gamma': 'auto',
+    'SVC__kernel': 'linear',
+    'SVC__max_iter': -1,
+    'SVC__probability': True,
+    'SVC__random_state': 2017,
+    'SVC__shrinking': True,
+    'SVC__tol': 0.001,
+    'SVC__verbose': False,
+    'memory': None,
+    'steps': [...]}
+

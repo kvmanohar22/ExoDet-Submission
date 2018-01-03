@@ -1,0 +1,16 @@
+scikit-learn
+pandas
+numpy
+hyperopt
+xgboost
+keras
+mlxtend
+imblearn
+PyWavelets
+h5py
+PyAstronomy
+statsmodels
+peakutils
+pywt
+pyyawt
+tsfresh
